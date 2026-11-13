@@ -1,0 +1,129 @@
+Replogle perturbations: 11258 | genes after cleaning: 8175
+sciplex3 fingerprint genes: 17454 | common genes used: 8046
+
+======================================================================
+Nilotinib (AMN-107)|1000
+  expected BCR       r = +0.389   rank     1 of 11258   (top 0.0%)
+  expected ABL1      r = +0.000   rank  7025 of 11258   (top 62.4%)
+  top 10 matches: BCR (+0.39), GAB2 (+0.38), EP400 (+0.31), INPPL1 (+0.31), ORC5 (+0.31), MAX (+0.31), MCM4 (+0.30), MCM10 (+0.30), ALDOA (+0.29), PTPN11 (+0.29)
+
+======================================================================
+Nilotinib (AMN-107)|10000
+  expected BCR       r = +0.380   rank     1 of 11258   (top 0.0%)
+  expected ABL1      r = +0.022   rank  4424 of 11258   (top 39.3%)
+  top 10 matches: BCR (+0.38), GAB2 (+0.37), ORC5 (+0.31), EP400 (+0.31), HSPA8 (+0.30), ALDOA (+0.30), INPPL1 (+0.30), MCM10 (+0.30), MAX (+0.29), MCM4 (+0.29)
+
+======================================================================
+Dasatinib|1000
+  expected BCR       r = +0.347   rank     1 of 11258   (top 0.0%)
+  expected ABL1      r = +0.006   rank  6163 of 11258   (top 54.7%)
+  top 10 matches: BCR (+0.35), GAB2 (+0.34), ORC5 (+0.29), ALDOA (+0.29), INPPL1 (+0.28), EP400 (+0.28), MAX (+0.27), MCM4 (+0.27), MCM10 (+0.27), STAT5B (+0.26)
+
+======================================================================
+Dasatinib|10000
+  expected BCR       r = +0.276   rank     2 of 11258   (top 0.0%)
+  expected ABL1      r = +0.021   rank  4490 of 11258   (top 39.9%)
+  top 10 matches: GAB2 (+0.29), BCR (+0.28), ALDOA (+0.25), HSPA8 (+0.25), PTPN11 (+0.25), MED19 (+0.24), PGAM1 (+0.24), TPX2 (+0.24), MOB4 (+0.24), GINS4 (+0.23)
+
+======================================================================
+CLASS HDAC (mean of 23 drugs, 10000 nM)
+  expected HDAC1     r = +0.032   rank  3056 of 11258   (top 27.1%)
+  expected HDAC2     r = +0.032   rank  3067 of 11258   (top 27.2%)
+  expected HDAC3     r = +0.017   rank  4859 of 11258   (top 43.2%)
+  top 10 matches: ATRIP (+0.24), ATR (+0.23), SSRP1 (+0.22), SUPT16H (+0.22), SH3KBP1 (+0.20), CTR9 (+0.18), HNRNPC (+0.18), SUPT5H (+0.17), INTS2 (+0.17), PMF1 (+0.16)
+
+======================================================================
+CLASS Aurora Kinase (mean of 13 drugs, 10000 nM)
+  expected AURKA     r = -0.033   rank  9724 of 11258   (top 86.4%)
+  expected AURKB     r = -0.061   rank 10883 of 11258   (top 96.7%)
+  top 10 matches: MED19 (+0.33), BCR (+0.33), GAB2 (+0.32), PGAM1 (+0.32), ALDOA (+0.32), TPX2 (+0.31), MCM4 (+0.31), MED10 (+0.31), ORC5 (+0.30), MED30 (+0.29)
+
+======================================================================
+CLASS JAK (mean of 16 drugs, 10000 nM)
+  expected JAK1      r = +0.003   rank  6607 of 11258   (top 58.7%)
+  expected JAK2      r = +0.089   rank  1263 of 11258   (top 11.2%)
+  top 10 matches: SSRP1 (+0.25), MED19 (+0.25), MED12 (+0.24), MED30 (+0.24), BGLAP (+0.24), COX15 (+0.24), MAD2L1 (+0.23), MED10 (+0.23), SEC61A1 (+0.23), MED7 (+0.23)
+
+======================================================================
+(+)-JQ1|1000
+  expected BRD4      r = +0.029   rank  2295 of 11258   (top 20.4%)
+  top 10 matches: TAF1 (+0.16), SUPT16H (+0.15), SUPT5H (+0.15), SSRP1 (+0.15), SH3KBP1 (+0.14), TAF5 (+0.14), TAF2 (+0.14), CTR9 (+0.14), CENPK (+0.14), ATRIP (+0.13)
+
+======================================================================
+(+)-JQ1|10000
+  expected BRD4      r = +0.024   rank  2657 of 11258   (top 23.6%)
+  top 10 matches: SH3KBP1 (+0.16), TAF1 (+0.15), SUPT16H (+0.15), SSRP1 (+0.14), ATRIP (+0.14), TAF2 (+0.13), RFC5 (+0.13), NKX6-1 (+0.13), ATR (+0.13), PTPN11 (+0.13)
+
+======================================================================
+Trametinib (GSK1120212)|1000
+  expected MAP2K1    r = -0.021   rank  9233 of 11258   (top 82.0%)
+  expected MAP2K2    r = -0.003   rank  7334 of 11258   (top 65.1%)
+  top 10 matches: GAB2 (+0.42), BCR (+0.38), INPPL1 (+0.35), PTPN11 (+0.35), EP400 (+0.31), MAX (+0.30), ORC5 (+0.30), MOB4 (+0.29), MCM4 (+0.29), TPR (+0.29)
+
+======================================================================
+Trametinib (GSK1120212)|10000
+  expected MAP2K1    r = -0.024   rank  9418 of 11258   (top 83.7%)
+  expected MAP2K2    r = -0.009   rank  7887 of 11258   (top 70.1%)
+  top 10 matches: GAB2 (+0.35), PTPN11 (+0.30), BCR (+0.29), INPPL1 (+0.28), MOB4 (+0.28), HSPA8 (+0.25), ZNF414 (+0.25), MCM10 (+0.24), DMAP1 (+0.24), EP400 (+0.24)
+
+======================================================================
+Temsirolimus (CCI-779, NSC 683864)|1000
+  expected MTOR      r = +0.140   rank     1 of 11258   (top 0.0%)
+  top 10 matches: MTOR (+0.14), TTI1 (+0.13), SIRT7 (+0.12), PPP1R37 (+0.12), RPTOR (+0.12), ESYT2 (+0.12), MVD (+0.11), ADSL (+0.11), SRPRB (+0.11), PGAM1 (+0.11)
+
+======================================================================
+Temsirolimus (CCI-779, NSC 683864)|10000
+  expected MTOR      r = +0.099   rank    87 of 11258   (top 0.8%)
+  top 10 matches: DNAJC19 (+0.14), PHB2 (+0.14), EIF2B5 (+0.13), HSPA9 (+0.13), GFER (+0.13), PMPCB (+0.13), TTC1 (+0.13), SAMM50 (+0.13), PHB (+0.13), VARS (+0.12)
+
+======================================================================
+Flavopiridol HCl|1000
+  expected CDK9      r = +0.064   rank   462 of 11258   (top 4.1%)
+  expected CDK1      r = +0.038   rank  1491 of 11258   (top 13.2%)
+  top 10 matches: ELOF1 (+0.24), ATRIP (+0.22), TRA2B (+0.18), FBXW7 (+0.17), ATR (+0.17), HUS1 (+0.15), PRRC2A (+0.15), FASTKD5 (+0.15), SH3KBP1 (+0.14), FBXW7 (+0.14)
+
+======================================================================
+Flavopiridol HCl|10000
+  expected CDK9      r = +0.050   rank   660 of 11258   (top 5.9%)
+  expected CDK1      r = +0.062   rank   367 of 11258   (top 3.3%)
+  top 10 matches: ATRIP (+0.17), ELOF1 (+0.16), MTIF2 (+0.15), TRA2B (+0.14), ATR (+0.14), NDUFB1 (+0.13), MRPL53 (+0.13), AARS2 (+0.13), GFM1 (+0.13), LARS2 (+0.13)
+
+======================================================================
+Rigosertib (ON-01910)|1000
+  expected PLK1      r = +0.015   rank  5217 of 11258   (top 46.3%)
+  top 10 matches: MED30 (+0.23), EIF2B5 (+0.23), MED12 (+0.23), HSPA9 (+0.22), PHB2 (+0.22), MED19 (+0.22), EIF2B2 (+0.22), DNAJC19 (+0.22), BET1 (+0.22), SRP68 (+0.22)
+
+======================================================================
+Rigosertib (ON-01910)|10000
+  expected PLK1      r = -0.003   rank  7548 of 11258   (top 67.0%)
+  top 10 matches: MED12 (+0.22), PHB2 (+0.21), HSPA9 (+0.21), TRAPPC11 (+0.21), MED30 (+0.20), EIF2B5 (+0.20), DNAJC19 (+0.20), BNIP1 (+0.20), HBS1L (+0.20), MED19 (+0.20)
+
+======================================================================
+Tanespimycin (17-AAG)|1000
+  expected HSP90AB1  r = +0.024   rank  3932 of 11258   (top 34.9%)
+  top 10 matches: GAB2 (+0.26), BCR (+0.25), PGAM1 (+0.25), MED19 (+0.25), HSPA8 (+0.24), MOB4 (+0.23), TPX2 (+0.23), MED22 (+0.23), PTPN11 (+0.22), TTI1 (+0.22)
+
+======================================================================
+Tanespimycin (17-AAG)|10000
+  expected HSP90AB1  r = +0.025   rank  3766 of 11258   (top 33.5%)
+  top 10 matches: MED19 (+0.27), GAB2 (+0.27), MED30 (+0.25), MED22 (+0.25), BCR (+0.25), MED12 (+0.24), MED7 (+0.24), HEATR1 (+0.24), TPX2 (+0.24), MED10 (+0.24)
+
+======================================================================
+Tazemetostat (EPZ-6438)|1000
+  expected EZH2      r = +0.023   rank  1905 of 11258   (top 16.9%)
+  top 10 matches: POLRMT (+0.10), MED30 (+0.08), PNPT1 (+0.08), MED12 (+0.08), MED17 (+0.08), SSBP1 (+0.08), MED7 (+0.08), LRPPRC (+0.08), TWISTNB (+0.08), TEFM (+0.08)
+
+======================================================================
+Tazemetostat (EPZ-6438)|10000
+  expected EZH2      r = +0.050   rank   681 of 11258   (top 6.0%)
+  top 10 matches: MED7 (+0.12), MED30 (+0.11), SRP68 (+0.11), SMC1A (+0.11), MED6 (+0.11), MED12 (+0.11), PHB (+0.11), PHB2 (+0.11), HSPA9 (+0.11), GTF3C2 (+0.11)
+
+======================================================================
+Decitabine|1000
+  expected DNMT1     r = +0.019   rank  2329 of 11258   (top 20.7%)
+  top 10 matches: TFAM (+0.12), POLRMT (+0.12), UTP15 (+0.12), POLR1B (+0.12), RPS6 (+0.11), HEATR1 (+0.11), SNRNP27 (+0.11), RPL36 (+0.11), TWISTNB (+0.11), BCAS2 (+0.11)
+
+======================================================================
+Decitabine|10000
+  expected DNMT1     r = +0.041   rank  1758 of 11258   (top 15.6%)
+  top 10 matches: MED19 (+0.16), MED22 (+0.15), SSRP1 (+0.15), GINS1 (+0.15), MED12 (+0.15), MED10 (+0.14), HEATR1 (+0.14), MED11 (+0.14), RPL24 (+0.14), TWISTNB (+0.14)

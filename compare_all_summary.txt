@@ -1,0 +1,107 @@
+Replogle rows: 11258 | non-targeting: 585 | energy-test p < 0.05: 5293
+Replogle rows kept: 5293 | unique genes: 5191
+common genes used: 8046
+
+=== HIT RATES (target gene among best matches) ===
+drugs with at least one expected gene present in kept Replogle rows are scored
+dose      10 nM | all scored drugs     n = 126 | top 1%:   4.8% (chance  2.8%) | top 5%:  11.9% (chance 13.2%)
+dose      10 nM | strongest 25% drugs  n =  37 | top 1%:  13.5% (chance  3.0%) | top 5%:  21.6% (chance 14.0%)
+dose     100 nM | all scored drugs     n = 126 | top 1%:   7.1% (chance  2.8%) | top 5%:  13.5% (chance 13.2%)
+dose     100 nM | strongest 25% drugs  n =  37 | top 1%:  13.5% (chance  3.3%) | top 5%:  18.9% (chance 15.6%)
+dose    1000 nM | all scored drugs     n = 126 | top 1%:   4.8% (chance  2.8%) | top 5%:  11.1% (chance 13.2%)
+dose    1000 nM | strongest 25% drugs  n =  39 | top 1%:  10.3% (chance  3.4%) | top 5%:  10.3% (chance 15.7%)
+dose   10000 nM | all scored drugs     n = 126 | top 1%:   7.1% (chance  2.8%) | top 5%:  15.9% (chance 13.2%)
+dose   10000 nM | strongest 25% drugs  n =  37 | top 1%:  10.8% (chance  3.7%) | top 5%:  13.5% (chance 17.3%)
+
+=== BY TARGET CLASS, dose 1000 nM (classes with >= 3 scored drugs) ===
+                            n  median_pct  in_top5
+target                                            
+CDK                         3       7.240        0
+HDAC                       23      17.820        0
+Epigenetic Reader Domain    3      23.750        0
+Bcl-2                       3      24.240        0
+DNA Methyltransferase       3      26.130        0
+Histone Methyltransferase   7      32.870        0
+JAK                        16      33.365        1
+DNA/RNA Synthesis           8      38.735        0
+PARP                        7      39.010        2
+Aurora Kinase              13      60.040        1
+Topoisomerase               3      87.190        0
+
+=== ALL HITS IN TOP 1% (any dose) ===
+                                                                            target best_gene  best_rank  best_r  effect_corrected
+name                                                                                                                             
+Danusertib (PHA-739358)|1000                      Aurora Kinase,Bcr-Abl,c-RET,FGFR       BCR        1.0   0.335              7.73
+Danusertib (PHA-739358)|100                       Aurora Kinase,Bcr-Abl,c-RET,FGFR       BCR        1.0   0.270              6.24
+Dasatinib|100                                                    Bcr-Abl,c-Kit,Src       BCR        1.0   0.361              8.81
+Dasatinib|10                                                     Bcr-Abl,c-Kit,Src       BCR        1.0   0.395              9.27
+Dasatinib|1000                                                   Bcr-Abl,c-Kit,Src       BCR        1.0   0.335              9.03
+Flavopiridol HCl|10                                                            CDK      CDK9        1.0   0.191              4.93
+Flavopiridol HCl|100                                                           CDK      CDK9        1.0   0.220              7.12
+Nilotinib (AMN-107)|100                                                    Bcr-Abl       BCR        1.0   0.304              6.65
+Nilotinib (AMN-107)|1000                                                   Bcr-Abl       BCR        1.0   0.373              8.55
+Nilotinib (AMN-107)|10000                                                  Bcr-Abl       BCR        1.0   0.369              7.91
+KW-2449|10000                                           Aurora Kinase,Bcr-Abl,FLT3       BCR        1.0   0.233              5.81
+Temsirolimus (CCI-779, NSC 683864)|1000                                       mTOR      MTOR        1.0   0.109              3.97
+Dasatinib|10000                                                  Bcr-Abl,c-Kit,Src       BCR        2.0   0.246              7.51
+Danusertib (PHA-739358)|10000                     Aurora Kinase,Bcr-Abl,c-RET,FGFR       BCR        2.0   0.309              8.05
+Tazemetostat (EPZ-6438)|100                              Histone Methyltransferase      EZH2        2.0   0.077              3.24
+Danusertib (PHA-739358)|10                        Aurora Kinase,Bcr-Abl,c-RET,FGFR       BCR        2.0   0.119              4.49
+Temsirolimus (CCI-779, NSC 683864)|100                                        mTOR      MTOR        5.0   0.081              4.06
+KW-2449|100                                             Aurora Kinase,Bcr-Abl,FLT3       BCR        5.0   0.050              3.44
+KW-2449|1000                                            Aurora Kinase,Bcr-Abl,FLT3       BCR        6.0   0.128              4.20
+GSK-LSD1 2HCl|10                                               Histone Demethylase     KDM1A        8.0   0.130              4.54
+GSK-LSD1 2HCl|1000                                             Histone Demethylase     KDM1A       12.0   0.116              4.99
+GSK-LSD1 2HCl|100                                              Histone Demethylase     KDM1A       13.0   0.118              4.94
+Curcumin|10000                           NF-κB,HDAC,Histone Acetyltransferase,Nrf2     HDAC8       15.0   0.072              3.96
+Tazemetostat (EPZ-6438)|10000                            Histone Methyltransferase      EZH2       19.0   0.043              3.52
+ZM 447439|10                                                         Aurora Kinase     AURKB       23.0   0.055              3.39
+Flavopiridol HCl|10000                                                         CDK      CDK6       24.0   0.122             10.95
+Temsirolimus (CCI-779, NSC 683864)|10                                         mTOR      MTOR       33.0   0.071              4.74
+TMP195|100                                                                    HDAC     HDAC6       45.0   0.045              3.56
+XAV-939|10000                                                     Wnt/beta-catenin      TNKS       46.0   0.060              3.85
+GSK-LSD1 2HCl|10000                                            Histone Demethylase     KDM6A       50.0   0.092              5.03
+
+=== SANITY ROWS ===
+                          best_gene  best_rank  best_pct                                                                  top5_matches
+name                                                                                                                                  
+Nilotinib (AMN-107)|10          BCR       73.0      1.38  WDHD1 (+0.17), RFC5 (+0.16), STAT5B (+0.16), CASP8AP2 (+0.16), ALDOA (+0.16)
+Nilotinib (AMN-107)|100         BCR        1.0      0.02         BCR (+0.30), GAB2 (+0.29), ALDOA (+0.27), ORC5 (+0.26), EP400 (+0.25)
+Nilotinib (AMN-107)|1000        BCR        1.0      0.02         BCR (+0.37), GAB2 (+0.37), EP400 (+0.31), MAX (+0.29), INPPL1 (+0.29)
+Nilotinib (AMN-107)|10000       BCR        1.0      0.02        BCR (+0.37), GAB2 (+0.36), EP400 (+0.31), ORC5 (+0.29), INPPL1 (+0.29)
+                best_gene  best_rank  best_pct                                                             top5_matches
+name                                                                                                                   
+Dasatinib|10          BCR        1.0      0.02      BCR (+0.40), GAB2 (+0.38), EP400 (+0.31), MAX (+0.30), ORC5 (+0.29)
+Dasatinib|100         BCR        1.0      0.02      BCR (+0.36), GAB2 (+0.34), EP400 (+0.28), MAX (+0.26), ORC5 (+0.26)
+Dasatinib|1000        BCR        1.0      0.02   BCR (+0.33), GAB2 (+0.33), EP400 (+0.27), ORC5 (+0.27), INPPL1 (+0.27)
+Dasatinib|10000       BCR        2.0      0.04  GAB2 (+0.26), BCR (+0.25), ALDOA (+0.21), MED19 (+0.21), PTPN11 (+0.21)
+                                         best_gene  best_rank  best_pct                                                                 top5_matches
+name                                                                                                                                                
+Temsirolimus (CCI-779, NSC 683864)|10         MTOR       33.0      0.62      RPS3 (+0.09), NOL6 (+0.09), PPP2CB (+0.08), WDR36 (+0.08), RPS7 (+0.08)
+Temsirolimus (CCI-779, NSC 683864)|100        MTOR        5.0      0.09      TTI1 (+0.09), ESYT2 (+0.09), TELO2 (+0.09), VPS29 (+0.08), MTOR (+0.08)
+Temsirolimus (CCI-779, NSC 683864)|1000       MTOR        1.0      0.02    MTOR (+0.11), TTI1 (+0.10), PPP1R37 (+0.10), SIRT7 (+0.09), RPTOR (+0.09)
+Temsirolimus (CCI-779, NSC 683864)|10000      MTOR      252.0      4.76  POLRMT (+0.09), TFAM (+0.08), LRPPRC (+0.08), DNAJC19 (+0.08), TEFM (+0.07)
+                              best_gene  best_rank  best_pct                                                              top5_matches
+name                                                                                                                                  
+Trametinib (GSK1120212)|10          NaN        NaN       NaN  GAB2 (+0.40), BCR (+0.35), INPPL1 (+0.33), PTPN11 (+0.32), EP400 (+0.31)
+Trametinib (GSK1120212)|100         NaN        NaN       NaN  GAB2 (+0.40), BCR (+0.33), INPPL1 (+0.32), PTPN11 (+0.32), EP400 (+0.29)
+Trametinib (GSK1120212)|1000        NaN        NaN       NaN  GAB2 (+0.42), BCR (+0.36), INPPL1 (+0.33), PTPN11 (+0.33), EP400 (+0.31)
+Trametinib (GSK1120212)|10000       NaN        NaN       NaN   GAB2 (+0.34), PTPN11 (+0.28), INPPL1 (+0.27), BCR (+0.27), MOB4 (+0.25)
+                                 best_gene  best_rank  best_pct                                                                      top5_matches
+name                                                                                                                                             
+Ruxolitinib (INCB018424)|10           JAK2     3266.0     61.70       CBFA2T3 (+0.08), PTK7 (+0.07), POLA1 (+0.07), HMGCR (+0.07), ATP2A2 (+0.07)
+Ruxolitinib (INCB018424)|100          TYK2     2420.0     45.72        DEPDC5 (+0.08), GATA5 (+0.07), TBC1D24 (+0.07), CBY1 (+0.07), TFAM (+0.07)
+Ruxolitinib (INCB018424)|1000         TYK2     2909.0     54.96      ZNF292 (+0.12), RAP1A (+0.11), FAHD2A (+0.11), NSMF (+0.11), TBC1D24 (+0.11)
+Ruxolitinib (INCB018424)|10000        TYK2     2122.0     40.09         PPRC1 (+0.11), FBXL14 (+0.08), CMTR1 (+0.08), OTX1 (+0.08), PRDM5 (+0.08)
+S-Ruxolitinib (INCB018424)|10         TYK2     2399.0     45.32          RPS19 (+0.09), RIOK2 (+0.09), RRP12 (+0.09), RPS6 (+0.09), RPL34 (+0.09)
+S-Ruxolitinib (INCB018424)|100        TYK2     2129.0     40.22  FAM102B (+0.08), DROSHA (+0.08), DICER1 (+0.07), ATP1A1 (+0.07), PPP1R10 (+0.07)
+S-Ruxolitinib (INCB018424)|1000       TYK2     2484.0     46.93       ENY2 (+0.06), CHD1L (+0.05), UBE2L3 (+0.05), RPUSD1 (+0.04), ZNF264 (+0.04)
+S-Ruxolitinib (INCB018424)|10000      TYK2      623.0     11.77          PPRC1 (+0.09), CMTR1 (+0.09), POP7 (+0.08), SLC35F6 (+0.08), CBL (+0.07)
+                            best_gene  best_rank  best_pct                                                                 top5_matches
+name                                                                                                                                   
+Panobinostat (LBH589)|10        HDAC6      604.0     11.41    SSRP1 (+0.20), SUPT16H (+0.18), ATRIP (+0.18), INTS2 (+0.18), ATR (+0.17)
+Panobinostat (LBH589)|100       HDAC6     1074.0     20.29  ATRIP (+0.19), ATR (+0.18), SUPT16H (+0.17), SSRP1 (+0.16), SH3KBP1 (+0.16)
+Panobinostat (LBH589)|1000      HDAC6      596.0     11.26  ATRIP (+0.17), ATR (+0.17), SUPT16H (+0.16), SSRP1 (+0.16), SH3KBP1 (+0.15)
+Panobinostat (LBH589)|10000     HDAC6     1524.0     28.79  ATRIP (+0.15), ATR (+0.15), SH3KBP1 (+0.14), SUPT16H (+0.14), SSRP1 (+0.13)
+
+drugs without a mapped gene target: 21 | mapped but target not in kept Replogle rows: 41

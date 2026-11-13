@@ -1,0 +1,4 @@
+*.h5ad
+*.csv.gz
+*_obs.csv
+__pycache__/

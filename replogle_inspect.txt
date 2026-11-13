@@ -1,0 +1,48 @@
+shape (perturbations x genes): (11258, 8248)
+obs columns: ['UMI_count_unfiltered', 'num_cells_unfiltered', 'num_cells_filtered', 'control_expr', 'fold_expr', 'pct_expr', 'core_control', 'mean_leverage_score', 'std_leverage_score', 'energy_test_p_value', 'anderson_darling_counts', 'mann_whitney_counts', 'z_gemgroup_UMI', 'mitopercent', 'TE_ratio', 'cnv_score_z']
+var columns: ['gene_name', 'mean', 'std', 'cv', 'in_matrix', 'gini', 'clean_mean', 'clean_std', 'clean_cv']
+layers: []
+
+first rows of obs:
+                                   UMI_count_unfiltered  num_cells_unfiltered  num_cells_filtered  control_expr  fold_expr  pct_expr  core_control  mean_leverage_score  std_leverage_score  energy_test_p_value  anderson_darling_counts  mann_whitney_counts  z_gemgroup_UMI  mitopercent  TE_ratio  cnv_score_z
+gene_transcript                                                                                                                                                                                                                                                                                                   
+0_A1BG_P1_ENSG00000121410                  11648.256836                   246               237.0      0.171285   0.023274 -0.976726         False             0.264768            1.137824             0.017798                        3                    4        0.088383     0.118743  0.013627          NaN
+10000_ZBTB46_P1P2_ENSG00000130584          12291.757812                    95                89.0      0.026212   0.000000 -1.000000         False             0.260951            1.095702             0.130587                        1                    1        0.339968     0.116354  0.014563     7.305249
+10001_ZBTB47_P1P2_ENSG00000114853          11295.581055                   318               308.0      0.048150   0.527716 -0.472284         False             0.277062            1.115502             0.457854                        0                    0        0.044135     0.118609  0.014196     0.014276
+10002_ZBTB48_P1P2_ENSG00000204859          12323.345703                    84                83.0      0.134619   0.163264 -0.836736         False             0.370545            1.089380             0.352665                        3                    3        0.241949     0.115377  0.013690     0.881662
+10003_ZBTB49_P1P2_ENSG00000168826          11520.527344                   290               276.0      0.026936   0.127473 -0.872527         False             0.301086            1.099432             0.217678                        1                    1        0.135962     0.119273  0.014122     1.277506
+
+first rows of var:
+                 gene_name      mean       std        cv  in_matrix      gini  clean_mean  clean_std  clean_cv
+gene_id                                                                                                       
+ENSG00000237491  LINC01409  0.114359  0.033798  0.295547       True  0.153642    0.117205   0.034833  0.297200
+ENSG00000228794  LINC01128  0.178166  0.040590  0.227822       True  0.122999    0.182778   0.041933  0.229419
+ENSG00000188976      NOC2L  1.375142  0.162536  0.118196       True  0.063150    1.411069   0.164344  0.116468
+ENSG00000187961     KLHL17  0.102961  0.030863  0.299751       True  0.162265    0.105230   0.031627  0.300552
+ENSG00000188290       HES4  0.237189  0.057237  0.241315       True  0.127442    0.242638   0.058972  0.243044
+
+example row names: ['0_A1BG_P1_ENSG00000121410', '10000_ZBTB46_P1P2_ENSG00000130584', '10001_ZBTB47_P1P2_ENSG00000114853', '10002_ZBTB48_P1P2_ENSG00000204859', '10003_ZBTB49_P1P2_ENSG00000168826']
+rows containing 'non-targeting': 585
+X values (min, median, max): -4.155390739440918 0.0023937933146953583 inf
+
+target genes found in row names:
+  ABL1: 1 row(s) ['55_ABL1_ENST00000372348.2_ENSG00000097007']
+  BCR: 1 row(s) ['812_BCR_P1P2_ENSG00000186716']
+  HDAC1: 1 row(s) ['3662_HDAC1_P1P2_ENSG00000116478']
+  HDAC2: 1 row(s) ['3663_HDAC2_P1P2_ENSG00000196591']
+  HDAC3: 1 row(s) ['3664_HDAC3_P1P2_ENSG00000171720']
+  AURKA: 1 row(s) ['714_AURKA_P1P2_ENSG00000087586']
+  AURKB: 1 row(s) ['715_AURKB_P1P2_ENSG00000178999']
+  PARP1: 1 row(s) ['6076_PARP1_P1P2_ENSG00000143799']
+  JAK1: 1 row(s) ['4247_JAK1_P1P2_ENSG00000162434']
+  JAK2: 1 row(s) ['4248_JAK2_P1P2_ENSG00000096968']
+  BRD4: 1 row(s) ['891_BRD4_ENST00000263377.2,ENST00000371835.4_ENSG00000141867']
+  EZH2: 1 row(s) ['2803_EZH2_P1P2_ENSG00000106462']
+  DNMT1: 1 row(s) ['2314_DNMT1_P1P2_ENSG00000130816']
+  MTOR: 1 row(s) ['5339_MTOR_P1P2_ENSG00000198793']
+  PLK1: 1 row(s) ['6453_PLK1_P1P2_ENSG00000166851']
+  CDK1: 1 row(s) ['1429_CDK1_P1P2_ENSG00000170312']
+  CDK9: 1 row(s) ['1443_CDK9_P1P2_ENSG00000136807']
+  HSP90AB1: 1 row(s) ['3968_HSP90AB1_P1P2_ENSG00000096384']
+  MAP2K1: 1 row(s) ['4800_MAP2K1_P1P2_ENSG00000169032']
+  MAP2K2: 1 row(s) ['4801_MAP2K2_P1P2_ENSG00000126934']

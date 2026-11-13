@@ -1,0 +1,187 @@
+
+======================================================================
+nadig NadigOConner2024_hepg2.h5ad клеток x генов: (145473, 9624)
+obs: ['batch', 'gene', 'gene_id', 'transcript', 'gene_transcript', 'guide_id', 'percent_mito', 'UMI_count', 'z_gemgroup_UMI', 'disease', 'cancer', 'cell_line', 'organism', 'perturbation_type', 'tissue_type', 'perturbation', 'ncounts', 'ngenes', 'nperts', 'percent_ribo']
+var: ['chr', 'start', 'end', 'class', 'strand', 'length', 'in_matrix', 'mean', 'std', 'cv', 'fano', 'ensembl_id', 'ncounts', 'ncells']
+layers: []
+obsm: []
+  [batch] уникальных: 56
+    {18: 3513, 7: 3295, 38: 3238, 3: 3226, 20: 3199, 12: 3159, 55: 3137, 44: 3103, 14: 3099, 25: 3089}
+  [gene] уникальных: 2394 (примеры: ['KIAA1143', 'FEN1', 'RNPS1', 'PHF10', 'HSF1'])
+  [gene_id] уникальных: 2392 (примеры: ['ENSG00000163807', 'ENSG00000168496', 'ENSG00000205937', 'ENSG00000130024', 'ENSG00000185122'])
+  [transcript] уникальных: 62
+    {'P1P2': 124584, 'P1': 7324, 'P2': 5639, 'non-targeting': 4976, 'ENST00000380743.4': 452, 'ENST00000380876.4,ENST00000398943.3,ENST00000398944.3': 435, 'ENST00000329516.3': 130, 'ENST00000568128.1': 100, 'ENST00000248384.1': 72, 'ENST00000502662.1': 71}
+  [gene_transcript] уникальных: 2679 (примеры: ['4360_KIAA1143_P1P2_ENSG00000163807', '3057_FEN1_P1P2_ENSG00000168496', '7407_RNPS1_P1P2_ENSG00000205937', '6279_PHF10_P1P2_ENSG00000130024', '3959_HSF1_P1P2_ENSG00000185122'])
+  [guide_id] уникальных: 2679 (примеры: ['KIAA1143_+_44803075.23-P1P2|KIAA1143_+_44803082.23-P1P2', 'FEN1_-_61560380.23-P1P2|FEN1_+_61560617.23-P1P2', 'RNPS1_+_2318108.23-P1P2|RNPS1_+_2318045.23-P1P2', 'PHF10_-_170124315.23-P1P2|PHF10_+_170124573.23-P1P2', 'HSF1_+_145515304.23-P1P2|HSF1_-_145515300.23-P1P2'])
+  [percent_mito] уникальных: 142677 (примеры: [np.float32(0.11402884), np.float32(0.09522949), np.float32(0.08660336), np.float32(0.08400037), np.float32(0.098999634)])
+  [UMI_count] уникальных: 38700 (примеры: [np.float32(11234.0), np.float32(11068.0), np.float32(16743.0), np.float32(21488.0), np.float32(19293.0)])
+  [z_gemgroup_UMI] уникальных: 136061 (примеры: [np.float32(-0.6110911), np.float32(-0.07017054), np.float32(0.20855156), np.float32(0.09110092), np.float32(0.041390125)])
+  [disease] уникальных: 1
+    {'hepatoblastoma': 145473}
+  [cancer] уникальных: 1
+    {True: 145473}
+  [cell_line] уникальных: 1
+    {'Hep-G2': 145473}
+  [organism] уникальных: 1
+    {'human': 145473}
+  [perturbation_type] уникальных: 1
+    {'CRISPR': 145473}
+  [tissue_type] уникальных: 1
+    {'cell_line': 145473}
+  [perturbation] уникальных: 2394 (примеры: ['KIAA1143', 'FEN1', 'RNPS1', 'PHF10', 'HSF1'])
+  [ncounts] уникальных: 38403 (примеры: [np.float32(11140.0), np.float32(10964.0), np.float32(16559.0), np.float32(21246.0), np.float32(19127.0)])
+  [ngenes] уникальных: 6576 (примеры: [np.int64(3144), np.int64(3363), np.int64(4471), np.int64(4427), np.int64(4396)])
+  [nperts] уникальных: 2
+    {1: 140497, 0: 4976}
+  [percent_ribo] уникальных: 142794 (примеры: [np.float32(0.23473968), np.float32(0.21224006), np.float32(0.17621838), np.float32(0.17716277), np.float32(0.2160297)])
+            chr    start      end           class strand  length  in_matrix      mean       std        cv       fano       ensembl_id   ncounts  ncells
+gene_name                                                                                                                                              
+LINC01128  chr1   825138   868202   gene_version9      +   43064       True  0.187369  0.462334  2.467510   1.140814  ENSG00000228794   29499.0   25354
+NOC2L      chr1   944203   959309  gene_version11      -   15106       True  1.742970  1.967864  1.129029   2.221775  ENSG00000188976  275250.0  108918
+PLEKHN1    chr1   966482   975865  gene_version11      +    9383       True  0.164274  0.444831  2.707855   1.204539  ENSG00000187583   25717.0   21799
+HES4       chr1   998962  1000172  gene_version10      -    1210       True  2.179681  2.977747  1.366139   4.068017  ENSG00000188290  345333.0  105994
+ISG15      chr1  1001138  1014540  gene_version10      +   13402       True  1.701508  4.689206  2.755911  12.923033  ENSG00000187608  270154.0  100618
+
+======================================================================
+norman NormanWeissman2019_filtered.h5ad клеток x генов: (111445, 33694)
+obs: ['guide_id', 'read_count', 'UMI_count', 'coverage', 'gemgroup', 'good_coverage', 'number_of_cells', 'tissue_type', 'cell_line', 'cancer', 'disease', 'perturbation_type', 'celltype', 'organism', 'perturbation', 'nperts', 'ngenes', 'ncounts', 'percent_mito', 'percent_ribo']
+var: ['ensemble_id', 'ncounts', 'ncells']
+layers: []
+obsm: []
+  [guide_id] уникальных: 290
+    {'NegCtrl10_NegCtrl0;NegCtrl10_NegCtrl0': 3532, 'NegCtrl1_NegCtrl0;NegCtrl1_NegCtrl0': 2948, 'NegCtrl11_NegCtrl0;NegCtrl11_NegCtrl0': 2839, 'NegCtrl0_NegCtrl0;NegCtrl0_NegCtrl0': 2536, 'CEBPE_RUNX1T1;CEBPE_RUNX1T1': 1219, 'KLF1_NegCtrl0;KLF1_NegCtrl0': 1197, 'TBX3_TBX2;TBX3_TBX2': 1167, 'SLC4A1_NegCtrl0;SLC4A1_NegCtrl0': 1000, 'ETS2_CNN1;ETS2_CNN1': 905, 'UBASH3B_OSR2;UBASH3B_OSR2': 796}
+  [read_count] уникальных: 4592 (примеры: [np.int64(28684), np.int64(18367), np.int64(16296), np.int64(16262), np.int64(16057)])
+  [UMI_count] уникальных: 338 (примеры: [np.int64(1809), np.int64(896), np.int64(664), np.int64(850), np.int64(1067)])
+  [coverage] уникальных: 41354 (примеры: [np.float64(15.856274184632394), np.float64(20.498883928571427), np.float64(24.5421686746988), np.float64(19.131764705882357), np.float64(15.048734770384257)])
+  [gemgroup] уникальных: 8
+    {1: 15033, 8: 14266, 3: 14246, 7: 14137, 6: 13792, 2: 13787, 5: 13101, 4: 13083}
+  [good_coverage] уникальных: 2
+    {True: 104507, False: 6938}
+  [number_of_cells] уникальных: 8
+    {1: 91168, 2: 11885, 0: 6938, 3: 1286, 4: 147, 5: 18, 6: 2, 10: 1}
+  [tissue_type] уникальных: 1
+    {'cell_line': 111445}
+  [cell_line] уникальных: 1
+    {'K562': 111445}
+  [cancer] уникальных: 1
+    {True: 111445}
+  [disease] уникальных: 1
+    {'chronic myelogenous leukemia': 111445}
+  [perturbation_type] уникальных: 1
+    {'CRISPR': 111445}
+  [celltype] уникальных: 1
+    {'lymphoblasts': 111445}
+  [organism] уникальных: 1
+    {'human': 111445}
+  [perturbation] уникальных: 237
+    {'control': 11855, 'KLF1': 1960, 'BAK1': 1457, 'CEBPE': 1233, 'CEBPE_RUNX1T1': 1219, 'UBASH3B': 1202, 'ETS2': 1201, 'TBX3_TBX2': 1167, 'OSR2': 1003, 'SLC4A1': 1000}
+  [nperts] уникальных: 3
+    {1: 57831, 2: 41759, 0: 11855}
+  [ngenes] уникальных: 4328 (примеры: [np.int64(3079), np.int64(2100), np.int64(2772), np.int64(5385), np.int64(4869)])
+  [ncounts] уникальных: 25082 (примеры: [np.float64(15097.0), np.float64(8551.0), np.float64(10999.0), np.float64(38454.0), np.float64(27926.0)])
+  [percent_mito] уникальных: 108814 (примеры: [np.float64(5.815724978472544), np.float64(4.104783066308034), np.float64(5.655059550868261), np.float64(4.335049669735268), np.float64(5.084867148893505)])
+  [percent_ribo] уникальных: 110420 (примеры: [np.float64(33.56958336093264), np.float64(45.842591509764944), np.float64(17.801618328938996), np.float64(38.16508035574972), np.float64(32.31755353434076)])
+                  ensemble_id  ncounts  ncells
+RP11-34P13.3  ENSG00000243485     29.0      29
+FAM138A       ENSG00000237613      0.0       0
+OR4F5         ENSG00000186092      0.0       0
+RP11-34P13.7  ENSG00000238009    266.0     265
+RP11-34P13.8  ENSG00000239945     10.0      10
+
+======================================================================
+sciplex2 SrivatsanTrapnell2020_sciplex2.h5ad клеток x генов: (24262, 58347)
+obs: ['ncounts', 'hash_umis', 'pval_demultiplexing', 'qval_demultiplexing', 'top_to_second_best_ratio', 'top_oligo', 'perturbation', 'dose_value', 'well', 'celltype', 'cell_line', 'cancer', 'disease', 'tissue_type', 'organism', 'perturbation_type', 'ngenes', 'percent_mito', 'percent_ribo', 'nperts', 'chembl-ID']
+var: ['ensembl_id', 'ncounts', 'ncells']
+layers: []
+obsm: []
+  [ncounts] уникальных: 9881 (примеры: [np.int64(1939), np.int64(1234), np.int64(3430), np.int64(6512), np.int64(5354)])
+  [hash_umis] уникальных: 770 (примеры: [np.float64(nan), np.float64(8.0), np.float64(16.0), np.float64(35.0), np.float64(15.0)])
+  [pval_demultiplexing] уникальных: 6176 (примеры: [np.float64(nan), np.float64(1.0), np.float64(1.4041587719480399e-140), np.float64(0.0), np.float64(5.487454177280659e-276)])
+  [qval_demultiplexing] уникальных: 4861 (примеры: [np.float64(nan), np.float64(1.0), np.float64(3.65081280706491e-139), np.float64(0.0), np.float64(2.03035804559384e-274)])
+  [top_to_second_best_ratio] уникальных: 22217 (примеры: [np.float64(nan), np.float64(7.0), np.float64(15.0054644808743), np.float64(2.37916798983804), np.float64(5.7896138482024)])
+  [top_oligo] уникальных: 192
+    {'Nutlin_10_AA03': 266, 'Dex_100_AC01': 264, 'Nutlin_10_AA11': 247, 'Dex_5_AD08': 236, 'Dex_50_AD06': 231, 'Dex_1_AD01': 230, 'Dex_1_AD09': 230, 'Dex_50_AC10': 219, 'Dex_100_AC09': 218, 'Dex_100_BC09': 213}
+  [perturbation] уникальных: 5
+    {'Dex': 8064, 'Nutlin': 5956, 'SAHA': 5530, 'BMS': 4183, 'control': 529}
+  [dose_value] уникальных: 8
+    {'0': 3901, '0.1': 3479, '1': 3119, '0.5': 3094, '10': 2832, '5': 2828, '50': 2433, '100': 2047}
+  [well] уникальных: 192
+    {'AA03': 266, 'AC01': 264, 'AA11': 247, 'AD08': 236, 'AD06': 231, 'AD01': 230, 'AD09': 230, 'AC10': 219, 'AC09': 218, 'BC09': 213}
+  [celltype] уникальных: 1
+    {'alveolar basal epithelial cells': 24262}
+  [cell_line] уникальных: 1
+    {'A549': 24262}
+  [cancer] уникальных: 1
+    {True: 24262}
+  [disease] уникальных: 1
+    {'lung adenocarcinoma': 24262}
+  [tissue_type] уникальных: 1
+    {'cell_line': 24262}
+  [organism] уникальных: 1
+    {'human': 24262}
+  [perturbation_type] уникальных: 1
+    {'drug': 24262}
+  [ngenes] уникальных: 5032 (примеры: [np.int64(1258), np.int64(813), np.int64(2014), np.int64(3222), np.int64(2804)])
+  [percent_mito] уникальных: 23483 (примеры: [np.float32(11.913358), np.float32(17.828201), np.float32(8.921283), np.float32(4.5454545), np.float32(11.953679)])
+  [percent_ribo] уникальных: 21869 (примеры: [np.float32(1.8566271), np.float32(1.6207455), np.float32(1.0787172), np.float32(1.3206388), np.float32(1.8490849)])
+  [nperts] уникальных: 1
+    {1: 24262}
+  [chembl-ID] уникальных: 1
+    {'CHEMBL407632;CHEMBL191334': 5956}
+                  ensembl_id  ncounts  ncells
+gene_symbol                                  
+TSPAN6       ENSG00000000003   4490.0    3426
+TNMD         ENSG00000000005     22.0      22
+DPM1         ENSG00000000419  13945.0    7532
+SCYL3        ENSG00000000457   2739.0    2170
+C1orf112     ENSG00000000460   5086.0    3428
+
+======================================================================
+sciplex3 SrivatsanTrapnell2020_sciplex3.h5ad клеток x генов: (799317, 110983)
+obs: ['ncounts', 'well', 'plate', 'cell_line', 'replicate', 'time', 'dose_value', 'pathway_level_1', 'pathway_level_2', 'perturbation', 'target', 'pathway', 'dose_unit', 'celltype', 'disease', 'cancer', 'tissue_type', 'organism', 'perturbation_type']
+var: ['ensembl_id']
+layers: []
+obsm: []
+  [ncounts] уникальных: 19725 (примеры: [np.int64(2957), np.int64(1528), np.int64(1881), np.int64(1700), np.int64(1430)])
+  [well] уникальных: 864 (примеры: ['plate6_A9', 'plate8_H3', 'plate3_C2', 'plate9_E3', 'plate8_H10'])
+  [plate] уникальных: 52
+    {'plate44': 28510, 'plate43': 27816, 'plate47': 27355, 'plate48': 23814, 'plate46': 23486, 'plate20': 23463, 'plate17': 23405, 'plate42': 23057, 'plate41': 22041, 'plate51': 21459}
+  [cell_line] уникальных: 3
+    {'MCF7': 344862, 'A549': 244281, 'K562': 173652}
+  [replicate] уникальных: 2
+    {'rep2': 411710, 'rep1': 351085}
+  [time] уникальных: 2
+    {24.0: 680685, 72.0: 82110}
+  [dose_value] уникальных: 5
+    {10.0: 202725, 100.0: 192858, 1000.0: 183356, 10000.0: 166278, 0.0: 17578}
+  [pathway_level_1] уникальных: 17
+    {'Epigenetic regulation': 214942, 'Tyrosine kinase signaling': 98672, 'JAK/STAT signaling': 90758, 'Cell cycle regulation': 76617, 'DNA damage & DNA repair': 74600, 'Other': 24461, 'Nuclear receptor signaling': 22328, 'Protein folding & Protein degradation': 22027, 'Metabolic regulation': 21555, 'Antioxidant': 18377}
+  [pathway_level_2] уникальных: 55
+    {'Histone deacetylation': 141857, 'JAK kinase activity': 75442, 'RTK activity': 70146, 'Aurora kinase activity': 59460, 'ADP-rybosilation': 36260, 'Histone methylation': 34221, 'Nucleotide analog': 25423, 'Nuclear receptor activity': 22328, 'DNA methylation': 18984, 'Antioxidant': 18377}
+  [perturbation] уникальных: 189
+    {'control': 17578, 'Ellagic acid': 6257, 'Divalproex Sodium': 6203, 'Ruxolitinib (INCB018424)': 6143, 'MC1568': 6126, 'UNC1999': 6088, 'Tazemetostat (EPZ-6438)': 6036, 'Fasudil (HA-1077) HCl': 6002, 'PFI-1 (PF-6405761)': 5948, 'SRT2104 (GSK2245840)': 5942}
+  [target] уникальных: 87
+    {'HDAC': 100157, 'JAK': 68623, 'Aurora Kinase': 47737, 'PARP': 32537, 'Histone Methyltransferase': 32168, 'DNA/RNA Synthesis': 29290, 'Sirtuin': 25292, 'Vehicle': 17578, 'Epigenetic Reader Domain': 17535, 'Topoisomerase': 15199}
+  [pathway] уникальных: 21
+    {'Epigenetics': 171604, 'DNA Damage': 118293, 'JAK/STAT': 82602, 'Cell Cycle': 77601, 'Protein Tyrosine Kinase': 55774, 'Angiogenesis': 41494, 'Cytoskeletal Signaling': 39219, 'Endocrinology & Hormones': 22123, 'Metabolism': 18589, 'Apoptosis': 18413}
+  [dose_unit] уникальных: 1
+    {'nM': 799317}
+  [celltype] уникальных: 4
+    {'mammary epithelial cells': 344862, 'alveolar basal epithelial cells': 244281, 'lymphoblasts': 173652, 'None': 36522}
+  [disease] уникальных: 4
+    {'breast adenocarcinoma': 344862, 'lung adenocarcinoma': 244281, 'chronic myelogenous leukemia': 173652, 'None': 36522}
+  [cancer] уникальных: 1
+    {True: 799317}
+  [tissue_type] уникальных: 1
+    {'cell_line': 799317}
+  [organism] уникальных: 1
+    {'human': 799317}
+  [perturbation_type] уникальных: 1
+    {'drug': 799317}
+                  ensembl_id
+gene_symbol                 
+TSPAN6       ENSG00000000003
+TNMD         ENSG00000000005
+DPM1         ENSG00000000419
+SCYL3        ENSG00000000457
+C1orf112     ENSG00000000460

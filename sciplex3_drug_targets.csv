@@ -1,0 +1,191 @@
+perturbation,target,pathway,pathway_level_1,pathway_level_2
+Crizotinib (PF-02341066),"ALK,c-Met",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+AICAR (Acadesine),AMPK,PI3K/Akt/mTOR,PKC signaling,AMPK activity
+Andarine,Androgen Receptor,Endocrinology & Hormones,Nuclear receptor signaling,Nuclear receptor activity
+Aminoglutethimide ,Aromatase,Endocrinology & Hormones,Metabolic regulation,Aromatase activity
+Aurora A Inhibitor I,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+ZM 447439,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+"Tozasertib (VX-680, MK-0457)",Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+PHA-680632,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+Barasertib (AZD1152-HQPA),Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+AMG-900,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+MK-5108 (VX-689),Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+Hesperadin,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+SNS-314,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+MLN8054,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+GSK1070916,Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+TAK-901,Aurora Kinase,Cell Cycle,Tyrosine kinase signaling,RTK activity
+Alisertib (MLN8237),Aurora Kinase,Cell Cycle,Cell cycle regulation,Aurora kinase activity
+KW-2449,"Aurora Kinase,Bcr-Abl,FLT3",Angiogenesis,Tyrosine kinase signaling,RTK activity
+AT9283,"Aurora Kinase,Bcr-Abl,JAK",JAK/STAT,JAK/STAT signaling,JAK kinase activity
+Danusertib (PHA-739358),"Aurora Kinase,Bcr-Abl,c-RET,FGFR",Cell Cycle,Cell cycle regulation,Aurora kinase activity
+JNJ-7706621,"Aurora Kinase,CDK",Cell Cycle,Cell cycle regulation,CDK activity
+ENMD-2076 L-(+)-Tartaric acid ,"Aurora Kinase,FLT3,VEGFR",Angiogenesis,Cell cycle regulation,Aurora kinase activity
+ENMD-2076,"Aurora Kinase,FLT3,VEGFR",Angiogenesis,Cell cycle regulation,Aurora kinase activity
+CYC116,"Aurora Kinase,VEGFR",Cell Cycle,Cell cycle regulation,Aurora kinase activity
+Fasudil (HA-1077) HCl,"Autophagy,ROCK",Cell Cycle,Focal adhesion signaling,ROCK activity
+Resveratrol,"Autophagy,Sirtuin",Epigenetics,Epigenetic regulation,Histone deacetylation
+Navitoclax (ABT-263),Bcl-2,Apoptosis,Apoptotic regulation,Mitochondria-mediated apoptosis
+ABT-737,Bcl-2,Apoptosis,Apoptotic regulation,Mitochondrial pathway of apoptosis
+Obatoclax Mesylate (GX15-070),Bcl-2,Apoptosis,Apoptotic regulation,Mitochondria-mediated apoptosis
+Nilotinib (AMN-107),Bcr-Abl,Angiogenesis,Tyrosine kinase signaling,Abl/Src activity
+Dasatinib,"Bcr-Abl,c-Kit,Src",Angiogenesis,Tyrosine kinase signaling,Abl/Src activity
+MK-0752,"Beta Amyloid,Gamma-secretase",Proteases,Protein folding & Protein degradation,Gamma secretase activity
+Avagacestat (BMS-708163),"Beta Amyloid,Gamma-secretase",Proteases,Protein folding & Protein degradation,Gamma secretase activity
+Maraviroc,CCR,Microbiology,Other,Chemokine Receptor activity
+Flavopiridol HCl,CDK,Cell Cycle,Cell cycle regulation,Cell cycle regulation
+BMS-265246,CDK,Cell Cycle,Cell cycle regulation,CDK activity
+"Roscovitine (Seliciclib,CYC202)",CDK,Cell Cycle,Cell cycle regulation,CDK activity
+Celecoxib,COX,Neuronal Signaling,Other,Cyclooxigenase activity
+Linifanib (ABT-869),"CSF-1R,PDGFR,VEGFR",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+Decitabine,DNA Methyltransferase,Epigenetics,Epigenetic regulation,DNA methylation
+Azacitidine ,DNA Methyltransferase,DNA Damage,Epigenetic regulation,DNA methylation
+RG108,DNA Methyltransferase,Epigenetics,Epigenetic regulation,DNA methylation
+Altretamine,DNA alkylator,DNA Damage,DNA damage & DNA repair,Alkylating agent
+Busulfan ,DNA alkylator,DNA Damage,DNA damage & DNA repair,Alkylating agent
+Streptozotocin (STZ),DNA alkylator,DNA Damage,DNA damage & DNA repair,Oxidizing agent
+Mercaptopurine (6-MP),DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Nucleotide analog
+Clevudine ,DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Nucleotide analog
+Cyclocytidine HCl,DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Nucleotide analog
+Capecitabine ,DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Nucleotide analog
+Raltitrexed,DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Nucleotide analog
+Lomustine ,DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Crosslinking agent
+"Fluorouracil (5-Fluoracil, 5-FU)",DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Nucleotide analog
+Carmofur,DNA/RNA Synthesis,DNA Damage,DNA damage & DNA repair,Nucleotide analog
+Disulfiram ,Dehydrogenase,Metabolism,Metabolic regulation,Aldehyde dehydrogenase activity
+Amisulpride,Dopamine Receptor,Neuronal Signaling,Neuronal signaling,Dopamine receptor activity
+Thalidomide,"E3 Ligase ,TNF-alpha",Ubiquitin,Protein folding & Protein degradation,E3 ubiquitin ligase activity
+JNJ-26854165 (Serdemetan),"E3 Ligase ,p53",Apoptosis,Apoptotic regulation,TP53 degradation
+AG-490 (Tyrphostin B42),EGFR,Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+Pelitinib (EKB-569),EGFR,Protein Tyrosine Kinase,Tyrosine kinase signaling,Tyrosine kinase activity
+CUDC-101,"EGFR,HDAC,HER2",Epigenetics,Epigenetic regulation,Histone deacetylation
+AC480 (BMS-599626),"EGFR,HER2",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+Lapatinib (GW-572016) Ditosylate,"EGFR,HER2",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+WHI-P154,"EGFR,JAK",JAK/STAT,JAK/STAT signaling,JAK kinase activity
+EED226,Epigenetic Reader Domain,Epigenetics,Epigenetic regulation,Histone methylation
+PFI-1 (PF-6405761),Epigenetic Reader Domain,Epigenetics,Epigenetic regulation,Bromodomain
+(+)-JQ1,Epigenetic Reader Domain,Epigenetics,Epigenetic regulation,Bromodomain
+Toremifene Citrate,Estrogen/progestogen Receptor,Endocrinology & Hormones,Nuclear receptor signaling,Nuclear receptor activity
+Fulvestrant,Estrogen/progestogen Receptor,Endocrinology & Hormones,Nuclear receptor signaling,Nuclear receptor activity
+PF-3845,FAAH,Metabolism,Metabolic regulation,Fatty acid amide hydrolase activity
+PF-573228,FAK,Angiogenesis,Focal adhesion signaling,Tyrosine kinase activity
+Nintedanib (BIBF 1120),"FGFR,PDGFR,VEGFR",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+PD173074,"FGFR,VEGFR",Angiogenesis,Tyrosine kinase signaling,RTK activity
+Valproic acid sodium salt (Sodium valproate),"GABA Receptor,HDAC,Autophagy",Neuronal Signaling,Epigenetic regulation,Histone deacetylation
+Triamcinolone Acetonide,Glucocorticoid Receptor,Metabolism,Nuclear receptor signaling,Nuclear receptor activity
+Meprednisone,Glucocorticoid Receptor,Endocrinology & Hormones,Nuclear receptor signaling,Nuclear receptor activity
+Prednisone ,"Glucocorticoid Receptor,Immunology & Inflammation related",Endocrinology & Hormones,Nuclear receptor signaling,Nuclear receptor activity
+Quisinostat (JNJ-26481585) 2HCl,HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Divalproex Sodium,HDAC,Ubiquitin,Epigenetic regulation,Histone deacetylation
+Tacedinaline (CI994),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Entinostat (MS-275),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+AR-42,HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Sodium Phenylbutyrate,HDAC,DNA Damage,Epigenetic regulation,Histone deacetylation
+Dacinostat (LAQ824),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Pracinostat (SB939),HDAC,Cytoskeletal Signaling,Epigenetic regulation,Histone deacetylation
+Droxinostat,HDAC,Cytoskeletal Signaling,Epigenetic regulation,Histone deacetylation
+Givinostat (ITF2357),HDAC,Cytoskeletal Signaling,Epigenetic regulation,Histone deacetylation
+Tucidinostat (Chidamide),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+PCI-34051,HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Tubastatin A HCl,HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+M344,HDAC,Cytoskeletal Signaling,Epigenetic regulation,Histone deacetylation
+Resminostat,HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Trichostatin A (TSA),HDAC,Others,Epigenetic regulation,Histone deacetylation
+Mocetinostat (MGCD0103),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+TMP195,HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Belinostat (PXD101),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+MC1568,HDAC,Cytoskeletal Signaling,Epigenetic regulation,Histone deacetylation
+Abexinostat (PCI-24781),HDAC,Cytoskeletal Signaling,Epigenetic regulation,Histone deacetylation
+ITSA-1 (ITSA1),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+Panobinostat (LBH589),HDAC,Epigenetics,Epigenetic regulation,Histone deacetylation
+CUDC-907,"HDAC,PI3K",Cytoskeletal Signaling,Epigenetic regulation,Histone deacetylation
+IOX2,HIF,Angiogenesis,HIF signaling,HIF prolyl-hydroxylation
+2-Methoxyestradiol (2-MeOE2),HIF,Angiogenesis,HIF signaling,GPCR activity
+Roxadustat (FG-4592),HIF,Angiogenesis,HIF signaling,HIF prolyl-hydroxylation
+Tanespimycin (17-AAG),HSP (e.g. HSP90),Cytoskeletal Signaling,Protein folding & Protein degradation,HSP90 activity
+Alvespimycin (17-DMAG) HCl,HSP (e.g. HSP90),Cytoskeletal Signaling,Protein folding & Protein degradation,HSP90 activity
+"Luminespib (AUY-922, NVP-AUY922)",HSP (e.g. HSP90),Cytoskeletal Signaling,Protein folding & Protein degradation,HSP90 activity
+Cimetidine ,Histamine Receptor,Neuronal Signaling,Other,Histamine receptor activity
+Anacardic Acid,Histone Acetyltransferase,Epigenetics,Epigenetic regulation,Histone acetylation
+GSK-LSD1 2HCl,Histone Demethylase,Epigenetics,Epigenetic regulation,Histone methylation
+GSK J1,Histone Demethylase,Epigenetics,Epigenetic regulation,Histone demethylase
+Entacapone,Histone Methyltransferase,Epigenetics,Neuronal signaling,Catecholamine degradation
+Tazemetostat (EPZ-6438),Histone Methyltransferase,Epigenetics,Epigenetic regulation,Histone methylation
+BRD4770,Histone Methyltransferase,Epigenetics,Epigenetic regulation,Histone methylation
+UNC1999,Histone Methyltransferase,Epigenetics,Epigenetic regulation,Histone methylation
+A-366,Histone Methyltransferase,Epigenetics,Epigenetic regulation,Histone methylation
+UNC0379,Histone Methyltransferase,Epigenetics,Epigenetic regulation,DNA methylation
+UNC0631,Histone Methyltransferase,Epigenetics,Epigenetic regulation,Histone methylation
+Ivosidenib (AG-120),IDH1,Metabolism,Metabolic regulation,Isocitrate dehydrogenase activity
+BMS-536924,IGF-1R,Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+S-Ruxolitinib (INCB018424),JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+Ruxolitinib (INCB018424),JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+CEP-33779,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+AZ 960,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+Momelotinib (CYT387),JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+AZD1480,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+Tofacitinib (CP-690550) Citrate,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+"Cerdulatinib (PRT062070, PRT2070)",JAK,JAK/STAT,JAK/STAT signaling,RTK activity
+Gandotinib (LY2784544),JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+"Baricitinib (LY3009104, INCB028050)",JAK,Epigenetics,JAK/STAT signaling,JAK kinase activity
+WP1066,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+BMS-911543,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+Filgotinib (GLPG0634),JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+FLLL32,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+NVP-BSK805 2HCl,JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+"Fedratinib (SAR302503, TG101348)",JAK,JAK/STAT,JAK/STAT signaling,JAK kinase activity
+Ki16425,LPA Receptor,GPCR & G Protein,Other,LPA receptor activity
+Zileuton,Lipoxygenase,Metabolism,Metabolic regulation,Lypoxigenase activity
+Tranylcypromine (2-PCPA) HCl,MAO,Epigenetics,Neuronal signaling,Oxidative deamination activity
+Trametinib (GSK1120212),MEK,MAPK,Tyrosine kinase signaling,MAPK activity
+PD98059,MEK,MAPK,Tyrosine kinase signaling,MAPK activity
+SL-327,MEK,MAPK,Tyrosine kinase signaling,MAPK activity
+Ramelteon,MT Receptor,GPCR & G Protein,Neuronal signaling,MT receptor activity
+"Patupilone (EPO906, Epothilone B)",Microtubule Associated,Cytoskeletal Signaling,Cell cycle regulation,Spindle formation
+Epothilone A,Microtubule Associated,Cytoskeletal Signaling,Cell cycle regulation,Cell cycle regulation
+Curcumin,"NF-κB,HDAC,Histone Acetyltransferase,Nrf2",Epigenetics,Other,Anti-inflammatory
+Mesna ,Others,Others,Antioxidant,Antioxidant
+Thiotepa,Others,Others,DNA damage & DNA repair,Alkylating agent
+Alendronate sodium trihydrate,Others,Others,Metabolic regulation,Dimethylallyl trans transferase activity
+Iniparib (BSI-201),PARP,DNA Damage,DNA damage & DNA repair,ADP-rybosilation
+G007-LK,PARP,DNA Damage,TGF/BMP signaling,ADP-rybosilation
+INO-1001 (3-Aminobenzamide),PARP,DNA Damage,DNA damage & DNA repair,ADP-rybosilation
+"Rucaparib (AG-014699,PF-01367338) phosphate",PARP,DNA Damage,DNA damage & DNA repair,ADP-rybosilation
+AG-14361,PARP,DNA Damage,DNA damage & DNA repair,ADP-rybosilation
+PJ34,PARP,DNA Damage,DNA damage & DNA repair,ADP-rybosilation
+Veliparib (ABT-888),PARP,DNA Damage,DNA damage & DNA repair,ADP-rybosilation
+Sorafenib Tosylate,"PDGFR,Raf,VEGFR",MAPK,Tyrosine kinase signaling,MAPK activity
+TGX-221,PI3K,PI3K/Akt/mTOR,Tyrosine kinase signaling,PI3K-AKT-MTOR activity
+Daphnetin,"PKA,EGFR,PKC",DNA Damage,Antioxidant,Antioxidant
+Enzastaurin (LY317615),PKC,TGF-beta/Smad,PKC signaling,PKC activitiy
+Bisindolylmaleimide IX (Ro 31-8220 Mesylate),PKC,TGF-beta/Smad,PKC signaling,PKC activitiy
+Rigosertib (ON-01910),PLK,Cell Cycle,Tyrosine kinase signaling,PI3K-AKT-MTOR activity
+SGI-1776 free base,Pim,JAK/STAT,JAK/STAT signaling,PIM1 activity
+S3I-201,STAT,JAK/STAT,JAK/STAT signaling,STAT activity
+Sirtinol,Sirtuin,Epigenetics,Epigenetic regulation,Histone deacetylation
+SRT1720 HCl,Sirtuin,Epigenetics,Epigenetic regulation,Histone deacetylation
+Selisistat (EX 527),Sirtuin,Epigenetics,Epigenetic regulation,Histone deacetylation
+SRT3025 HCl,Sirtuin,DNA Damage,Epigenetic regulation,Histone deacetylation
+SRT2104 (GSK2245840),Sirtuin,DNA Damage,Epigenetic regulation,Histone deacetylation
+Bosutinib (SKI-606),Src,Angiogenesis,Tyrosine kinase signaling,Abl/Src activity
+Quercetin,"Src,Sirtuin,PKC,PI3K",Epigenetics,Antioxidant,Antioxidant
+YM155 (Sepantronium Bromide),Survivin,Apoptosis,Apoptotic regulation,Mitochondria-mediated apoptosis
+SB431542,TGF-beta/Smad,TGF-beta/Smad,TGF/BMP signaling,Activin receptor type activity
+Lenalidomide (CC-5013),TNF-alpha,Apoptosis,Protein folding & Protein degradation,E3 ubiquitin ligase activity
+Costunolide,Telomerase,DNA Damage,JAK/STAT signaling,RTK activity
+Tie2 kinase inhibitor,Tie-2,Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+Pirarubicin,Topoisomerase,DNA Damage,DNA damage & DNA repair,Toposiomerase activity
+Ellagic acid,Topoisomerase,DNA Damage,Antioxidant,Antioxidant
+Ofloxacin,Topoisomerase,DNA Damage,Other,Bacterial topoisomerase activity
+Vandetanib (ZD6474),VEGFR,Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+Cediranib (AZD2171),VEGFR,Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+Motesanib Diphosphate (AMG-706),"VEGFR,PDGFR,c-Kit",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+control,Vehicle,Vehicle,Vehicle,Vehicle
+XAV-939,Wnt/beta-catenin,Stem Cells &  Wnt,TGF/BMP signaling,ADP-rybosilation
+Ki8751,"c-Kit,PDGFR,VEGFR",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+BMS-754807,"c-Met,IGF-1R,Trk receptor",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+Glesatinib?(MGCD265),"c-Met,Tie-2,VEGFR",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+TG101209,"c-RET,FLT3,JAK",JAK/STAT,JAK/STAT signaling,JAK kinase activity
+Regorafenib (BAY 73-4506),"c-RET,VEGFR",Protein Tyrosine Kinase,Tyrosine kinase signaling,RTK activity
+"Temsirolimus (CCI-779, NSC 683864)",mTOR,PI3K/Akt/mTOR,Tyrosine kinase signaling,PI3K-AKT-MTOR activity
+,,,,

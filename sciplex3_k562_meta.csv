@@ -1,0 +1,753 @@
+name,drug,dose_nM,target,n_cells,effect
+(+)-JQ1|10,(+)-JQ1,10.0,Epigenetic Reader Domain,227,4.67
+(+)-JQ1|100,(+)-JQ1,100.0,Epigenetic Reader Domain,204,7.01
+(+)-JQ1|1000,(+)-JQ1,1000.0,Epigenetic Reader Domain,161,8.88
+(+)-JQ1|10000,(+)-JQ1,10000.0,Epigenetic Reader Domain,144,10.02
+2-Methoxyestradiol (2-MeOE2)|10,2-Methoxyestradiol (2-MeOE2),10.0,HIF,250,4.02
+2-Methoxyestradiol (2-MeOE2)|100,2-Methoxyestradiol (2-MeOE2),100.0,HIF,246,4.16
+2-Methoxyestradiol (2-MeOE2)|1000,2-Methoxyestradiol (2-MeOE2),1000.0,HIF,159,5.29
+2-Methoxyestradiol (2-MeOE2)|10000,2-Methoxyestradiol (2-MeOE2),10000.0,HIF,83,8.19
+A-366|10,A-366,10.0,Histone Methyltransferase,295,3.73
+A-366|100,A-366,100.0,Histone Methyltransferase,233,4.48
+A-366|1000,A-366,1000.0,Histone Methyltransferase,269,3.91
+A-366|10000,A-366,10000.0,Histone Methyltransferase,260,4.24
+ABT-737|10,ABT-737,10.0,Bcl-2,244,4.19
+ABT-737|100,ABT-737,100.0,Bcl-2,260,4.09
+ABT-737|1000,ABT-737,1000.0,Bcl-2,204,4.39
+ABT-737|10000,ABT-737,10000.0,Bcl-2,207,5.71
+AC480 (BMS-599626)|10,AC480 (BMS-599626),10.0,"EGFR,HER2",236,4.11
+AC480 (BMS-599626)|100,AC480 (BMS-599626),100.0,"EGFR,HER2",241,3.99
+AC480 (BMS-599626)|1000,AC480 (BMS-599626),1000.0,"EGFR,HER2",298,3.83
+AC480 (BMS-599626)|10000,AC480 (BMS-599626),10000.0,"EGFR,HER2",188,5.47
+AG-14361|10,AG-14361,10.0,PARP,243,4.16
+AG-14361|100,AG-14361,100.0,PARP,236,4.08
+AG-14361|1000,AG-14361,1000.0,PARP,228,4.24
+AG-14361|10000,AG-14361,10000.0,PARP,220,4.52
+AG-490 (Tyrphostin B42)|10,AG-490 (Tyrphostin B42),10.0,EGFR,283,4.44
+AG-490 (Tyrphostin B42)|100,AG-490 (Tyrphostin B42),100.0,EGFR,263,4.3
+AG-490 (Tyrphostin B42)|1000,AG-490 (Tyrphostin B42),1000.0,EGFR,308,3.99
+AG-490 (Tyrphostin B42)|10000,AG-490 (Tyrphostin B42),10000.0,EGFR,254,4.71
+AICAR (Acadesine)|10,AICAR (Acadesine),10.0,AMPK,240,4.27
+AICAR (Acadesine)|100,AICAR (Acadesine),100.0,AMPK,279,3.87
+AICAR (Acadesine)|1000,AICAR (Acadesine),1000.0,AMPK,258,4.09
+AICAR (Acadesine)|10000,AICAR (Acadesine),10000.0,AMPK,285,3.82
+AMG-900|10,AMG-900,10.0,Aurora Kinase,202,6.67
+AMG-900|100,AMG-900,100.0,Aurora Kinase,209,6.71
+AMG-900|1000,AMG-900,1000.0,Aurora Kinase,223,6.09
+AMG-900|10000,AMG-900,10000.0,Aurora Kinase,213,5.53
+AR-42|10,AR-42,10.0,HDAC,256,4.58
+AR-42|100,AR-42,100.0,HDAC,192,7.59
+AR-42|1000,AR-42,1000.0,HDAC,137,11.61
+AR-42|10000,AR-42,10000.0,HDAC,104,14.44
+AT9283|10,AT9283,10.0,"Aurora Kinase,Bcr-Abl,JAK",215,6.03
+AT9283|100,AT9283,100.0,"Aurora Kinase,Bcr-Abl,JAK",184,6.57
+AT9283|1000,AT9283,1000.0,"Aurora Kinase,Bcr-Abl,JAK",160,7.84
+AT9283|10000,AT9283,10000.0,"Aurora Kinase,Bcr-Abl,JAK",87,11.0
+AZ 960|10,AZ 960,10.0,JAK,249,4.01
+AZ 960|100,AZ 960,100.0,JAK,241,4.52
+AZ 960|1000,AZ 960,1000.0,JAK,180,5.44
+AZ 960|10000,AZ 960,10000.0,JAK,154,6.73
+AZD1480|10,AZD1480,10.0,JAK,273,3.82
+AZD1480|100,AZD1480,100.0,JAK,239,4.19
+AZD1480|1000,AZD1480,1000.0,JAK,209,4.34
+AZD1480|10000,AZD1480,10000.0,JAK,113,7.26
+Abexinostat (PCI-24781)|10,Abexinostat (PCI-24781),10.0,HDAC,223,5.87
+Abexinostat (PCI-24781)|100,Abexinostat (PCI-24781),100.0,HDAC,198,7.52
+Abexinostat (PCI-24781)|1000,Abexinostat (PCI-24781),1000.0,HDAC,126,13.87
+Abexinostat (PCI-24781)|10000,Abexinostat (PCI-24781),10000.0,HDAC,96,14.78
+Alendronate sodium trihydrate|10,Alendronate sodium trihydrate,10.0,Others,305,3.85
+Alendronate sodium trihydrate|100,Alendronate sodium trihydrate,100.0,Others,249,4.09
+Alendronate sodium trihydrate|1000,Alendronate sodium trihydrate,1000.0,Others,253,4.04
+Alendronate sodium trihydrate|10000,Alendronate sodium trihydrate,10000.0,Others,273,4.02
+Alisertib (MLN8237)|10,Alisertib (MLN8237),10.0,Aurora Kinase,125,6.05
+Alisertib (MLN8237)|100,Alisertib (MLN8237),100.0,Aurora Kinase,184,6.66
+Alisertib (MLN8237)|1000,Alisertib (MLN8237),1000.0,Aurora Kinase,204,6.67
+Alisertib (MLN8237)|10000,Alisertib (MLN8237),10000.0,Aurora Kinase,125,9.31
+Altretamine|10,Altretamine,10.0,DNA alkylator,279,4.44
+Altretamine|100,Altretamine,100.0,DNA alkylator,280,4.12
+Altretamine|1000,Altretamine,1000.0,DNA alkylator,268,3.87
+Altretamine|10000,Altretamine,10000.0,DNA alkylator,238,4.06
+Alvespimycin (17-DMAG) HCl|10,Alvespimycin (17-DMAG) HCl,10.0,HSP (e.g. HSP90),249,4.63
+Alvespimycin (17-DMAG) HCl|100,Alvespimycin (17-DMAG) HCl,100.0,HSP (e.g. HSP90),149,9.11
+Alvespimycin (17-DMAG) HCl|1000,Alvespimycin (17-DMAG) HCl,1000.0,HSP (e.g. HSP90),137,10.74
+Alvespimycin (17-DMAG) HCl|10000,Alvespimycin (17-DMAG) HCl,10000.0,HSP (e.g. HSP90),122,10.37
+Aminoglutethimide |10,Aminoglutethimide ,10.0,Aromatase,294,3.77
+Aminoglutethimide |100,Aminoglutethimide ,100.0,Aromatase,265,3.93
+Aminoglutethimide |1000,Aminoglutethimide ,1000.0,Aromatase,282,3.8
+Aminoglutethimide |10000,Aminoglutethimide ,10000.0,Aromatase,283,3.84
+Amisulpride|10,Amisulpride,10.0,Dopamine Receptor,301,3.86
+Amisulpride|100,Amisulpride,100.0,Dopamine Receptor,267,3.83
+Amisulpride|1000,Amisulpride,1000.0,Dopamine Receptor,263,3.93
+Amisulpride|10000,Amisulpride,10000.0,Dopamine Receptor,293,3.74
+Anacardic Acid|10,Anacardic Acid,10.0,Histone Acetyltransferase,251,3.95
+Anacardic Acid|100,Anacardic Acid,100.0,Histone Acetyltransferase,259,3.95
+Anacardic Acid|1000,Anacardic Acid,1000.0,Histone Acetyltransferase,217,4.21
+Anacardic Acid|10000,Anacardic Acid,10000.0,Histone Acetyltransferase,228,4.38
+Andarine|10,Andarine,10.0,Androgen Receptor,252,3.97
+Andarine|100,Andarine,100.0,Androgen Receptor,262,3.91
+Andarine|1000,Andarine,1000.0,Androgen Receptor,247,4.06
+Andarine|10000,Andarine,10000.0,Androgen Receptor,266,3.85
+Aurora A Inhibitor I|10,Aurora A Inhibitor I,10.0,Aurora Kinase,259,4.0
+Aurora A Inhibitor I|100,Aurora A Inhibitor I,100.0,Aurora Kinase,259,3.94
+Aurora A Inhibitor I|1000,Aurora A Inhibitor I,1000.0,Aurora Kinase,268,4.03
+Aurora A Inhibitor I|10000,Aurora A Inhibitor I,10000.0,Aurora Kinase,171,5.36
+Avagacestat (BMS-708163)|10,Avagacestat (BMS-708163),10.0,"Beta Amyloid,Gamma-secretase",263,3.97
+Avagacestat (BMS-708163)|100,Avagacestat (BMS-708163),100.0,"Beta Amyloid,Gamma-secretase",261,4.08
+Avagacestat (BMS-708163)|1000,Avagacestat (BMS-708163),1000.0,"Beta Amyloid,Gamma-secretase",240,4.07
+Avagacestat (BMS-708163)|10000,Avagacestat (BMS-708163),10000.0,"Beta Amyloid,Gamma-secretase",203,4.47
+Azacitidine |10,Azacitidine ,10.0,DNA Methyltransferase,263,4.3
+Azacitidine |100,Azacitidine ,100.0,DNA Methyltransferase,215,4.71
+Azacitidine |1000,Azacitidine ,1000.0,DNA Methyltransferase,183,6.62
+Azacitidine |10000,Azacitidine ,10000.0,DNA Methyltransferase,206,12.33
+BMS-265246|10,BMS-265246,10.0,CDK,264,4.26
+BMS-265246|100,BMS-265246,100.0,CDK,272,4.29
+BMS-265246|1000,BMS-265246,1000.0,CDK,270,4.94
+BMS-265246|10000,BMS-265246,10000.0,CDK,214,5.79
+BMS-536924|10,BMS-536924,10.0,IGF-1R,259,4.03
+BMS-536924|100,BMS-536924,100.0,IGF-1R,260,4.01
+BMS-536924|1000,BMS-536924,1000.0,IGF-1R,300,3.74
+BMS-536924|10000,BMS-536924,10000.0,IGF-1R,222,5.14
+BMS-754807|10,BMS-754807,10.0,"c-Met,IGF-1R,Trk receptor",264,4.01
+BMS-754807|100,BMS-754807,100.0,"c-Met,IGF-1R,Trk receptor",286,3.85
+BMS-754807|1000,BMS-754807,1000.0,"c-Met,IGF-1R,Trk receptor",274,3.78
+BMS-754807|10000,BMS-754807,10000.0,"c-Met,IGF-1R,Trk receptor",205,6.06
+BMS-911543|10,BMS-911543,10.0,JAK,214,4.17
+BMS-911543|100,BMS-911543,100.0,JAK,200,4.59
+BMS-911543|1000,BMS-911543,1000.0,JAK,238,4.27
+BMS-911543|10000,BMS-911543,10000.0,JAK,264,3.95
+BRD4770|10,BRD4770,10.0,Histone Methyltransferase,305,3.65
+BRD4770|100,BRD4770,100.0,Histone Methyltransferase,244,4.08
+BRD4770|1000,BRD4770,1000.0,Histone Methyltransferase,245,4.05
+BRD4770|10000,BRD4770,10000.0,Histone Methyltransferase,235,4.15
+Barasertib (AZD1152-HQPA)|10,Barasertib (AZD1152-HQPA),10.0,Aurora Kinase,210,6.6
+Barasertib (AZD1152-HQPA)|100,Barasertib (AZD1152-HQPA),100.0,Aurora Kinase,175,7.8
+Barasertib (AZD1152-HQPA)|1000,Barasertib (AZD1152-HQPA),1000.0,Aurora Kinase,180,7.22
+Barasertib (AZD1152-HQPA)|10000,Barasertib (AZD1152-HQPA),10000.0,Aurora Kinase,179,6.76
+"Baricitinib (LY3009104, INCB028050)|10","Baricitinib (LY3009104, INCB028050)",10.0,JAK,264,4.11
+"Baricitinib (LY3009104, INCB028050)|100","Baricitinib (LY3009104, INCB028050)",100.0,JAK,256,4.01
+"Baricitinib (LY3009104, INCB028050)|1000","Baricitinib (LY3009104, INCB028050)",1000.0,JAK,284,3.89
+"Baricitinib (LY3009104, INCB028050)|10000","Baricitinib (LY3009104, INCB028050)",10000.0,JAK,261,4.49
+Belinostat (PXD101)|10,Belinostat (PXD101),10.0,HDAC,256,4.19
+Belinostat (PXD101)|100,Belinostat (PXD101),100.0,HDAC,241,5.84
+Belinostat (PXD101)|1000,Belinostat (PXD101),1000.0,HDAC,222,9.1
+Belinostat (PXD101)|10000,Belinostat (PXD101),10000.0,HDAC,89,14.15
+Bisindolylmaleimide IX (Ro 31-8220 Mesylate)|10,Bisindolylmaleimide IX (Ro 31-8220 Mesylate),10.0,PKC,287,3.91
+Bisindolylmaleimide IX (Ro 31-8220 Mesylate)|100,Bisindolylmaleimide IX (Ro 31-8220 Mesylate),100.0,PKC,221,4.28
+Bisindolylmaleimide IX (Ro 31-8220 Mesylate)|1000,Bisindolylmaleimide IX (Ro 31-8220 Mesylate),1000.0,PKC,225,5.06
+Bisindolylmaleimide IX (Ro 31-8220 Mesylate)|10000,Bisindolylmaleimide IX (Ro 31-8220 Mesylate),10000.0,PKC,32,12.76
+Bosutinib (SKI-606)|10,Bosutinib (SKI-606),10.0,Src,217,6.78
+Bosutinib (SKI-606)|100,Bosutinib (SKI-606),100.0,Src,166,9.6
+Bosutinib (SKI-606)|1000,Bosutinib (SKI-606),1000.0,Src,107,9.91
+Bosutinib (SKI-606)|10000,Bosutinib (SKI-606),10000.0,Src,63,10.46
+Busulfan |10,Busulfan ,10.0,DNA alkylator,285,4.16
+Busulfan |100,Busulfan ,100.0,DNA alkylator,307,4.78
+Busulfan |1000,Busulfan ,1000.0,DNA alkylator,322,3.78
+Busulfan |10000,Busulfan ,10000.0,DNA alkylator,282,3.81
+CEP-33779|10,CEP-33779,10.0,JAK,258,4.0
+CEP-33779|100,CEP-33779,100.0,JAK,225,4.53
+CEP-33779|1000,CEP-33779,1000.0,JAK,268,3.98
+CEP-33779|10000,CEP-33779,10000.0,JAK,236,4.84
+CUDC-101|10,CUDC-101,10.0,"EGFR,HDAC,HER2",315,3.98
+CUDC-101|100,CUDC-101,100.0,"EGFR,HDAC,HER2",214,4.98
+CUDC-101|1000,CUDC-101,1000.0,"EGFR,HDAC,HER2",189,7.71
+CUDC-101|10000,CUDC-101,10000.0,"EGFR,HDAC,HER2",94,14.65
+CUDC-907|10,CUDC-907,10.0,"HDAC,PI3K",158,11.15
+CUDC-907|100,CUDC-907,100.0,"HDAC,PI3K",110,11.7
+CUDC-907|1000,CUDC-907,1000.0,"HDAC,PI3K",113,12.85
+CUDC-907|10000,CUDC-907,10000.0,"HDAC,PI3K",57,13.65
+CYC116|10,CYC116,10.0,"Aurora Kinase,VEGFR",252,4.03
+CYC116|100,CYC116,100.0,"Aurora Kinase,VEGFR",230,4.27
+CYC116|1000,CYC116,1000.0,"Aurora Kinase,VEGFR",256,4.0
+CYC116|10000,CYC116,10000.0,"Aurora Kinase,VEGFR",198,5.87
+Capecitabine |10,Capecitabine ,10.0,DNA/RNA Synthesis,265,4.43
+Capecitabine |100,Capecitabine ,100.0,DNA/RNA Synthesis,283,4.27
+Capecitabine |1000,Capecitabine ,1000.0,DNA/RNA Synthesis,291,3.95
+Capecitabine |10000,Capecitabine ,10000.0,DNA/RNA Synthesis,318,4.04
+Carmofur|10,Carmofur,10.0,DNA/RNA Synthesis,269,4.02
+Carmofur|100,Carmofur,100.0,DNA/RNA Synthesis,257,3.91
+Carmofur|1000,Carmofur,1000.0,DNA/RNA Synthesis,301,3.57
+Carmofur|10000,Carmofur,10000.0,DNA/RNA Synthesis,274,4.49
+Cediranib (AZD2171)|10,Cediranib (AZD2171),10.0,VEGFR,272,4.48
+Cediranib (AZD2171)|100,Cediranib (AZD2171),100.0,VEGFR,299,4.4
+Cediranib (AZD2171)|1000,Cediranib (AZD2171),1000.0,VEGFR,279,4.1
+Cediranib (AZD2171)|10000,Cediranib (AZD2171),10000.0,VEGFR,133,8.14
+Celecoxib|10,Celecoxib,10.0,COX,230,4.07
+Celecoxib|100,Celecoxib,100.0,COX,242,4.06
+Celecoxib|1000,Celecoxib,1000.0,COX,255,3.93
+Celecoxib|10000,Celecoxib,10000.0,COX,260,4.21
+"Cerdulatinib (PRT062070, PRT2070)|10","Cerdulatinib (PRT062070, PRT2070)",10.0,JAK,281,3.98
+"Cerdulatinib (PRT062070, PRT2070)|100","Cerdulatinib (PRT062070, PRT2070)",100.0,JAK,255,4.06
+"Cerdulatinib (PRT062070, PRT2070)|1000","Cerdulatinib (PRT062070, PRT2070)",1000.0,JAK,247,4.27
+"Cerdulatinib (PRT062070, PRT2070)|10000","Cerdulatinib (PRT062070, PRT2070)",10000.0,JAK,226,6.81
+Cimetidine |10,Cimetidine ,10.0,Histamine Receptor,239,4.18
+Cimetidine |100,Cimetidine ,100.0,Histamine Receptor,248,3.94
+Cimetidine |1000,Cimetidine ,1000.0,Histamine Receptor,242,4.18
+Cimetidine |10000,Cimetidine ,10000.0,Histamine Receptor,244,4.03
+Clevudine |10,Clevudine ,10.0,DNA/RNA Synthesis,248,4.18
+Clevudine |100,Clevudine ,100.0,DNA/RNA Synthesis,248,4.11
+Clevudine |1000,Clevudine ,1000.0,DNA/RNA Synthesis,237,4.33
+Clevudine |10000,Clevudine ,10000.0,DNA/RNA Synthesis,247,4.1
+Costunolide|10,Costunolide,10.0,Telomerase,291,4.35
+Costunolide|100,Costunolide,100.0,Telomerase,294,3.95
+Costunolide|1000,Costunolide,1000.0,Telomerase,248,3.99
+Costunolide|10000,Costunolide,10000.0,Telomerase,273,4.12
+Crizotinib (PF-02341066)|10,Crizotinib (PF-02341066),10.0,"ALK,c-Met",269,4.04
+Crizotinib (PF-02341066)|100,Crizotinib (PF-02341066),100.0,"ALK,c-Met",229,4.58
+Crizotinib (PF-02341066)|1000,Crizotinib (PF-02341066),1000.0,"ALK,c-Met",148,7.09
+Crizotinib (PF-02341066)|10000,Crizotinib (PF-02341066),10000.0,"ALK,c-Met",114,10.4
+Curcumin|10,Curcumin,10.0,"NF-κB,HDAC,Histone Acetyltransferase,Nrf2",288,3.8
+Curcumin|100,Curcumin,100.0,"NF-κB,HDAC,Histone Acetyltransferase,Nrf2",231,4.35
+Curcumin|1000,Curcumin,1000.0,"NF-κB,HDAC,Histone Acetyltransferase,Nrf2",268,3.88
+Curcumin|10000,Curcumin,10000.0,"NF-κB,HDAC,Histone Acetyltransferase,Nrf2",255,4.17
+Cyclocytidine HCl|10,Cyclocytidine HCl,10.0,DNA/RNA Synthesis,213,5.88
+Cyclocytidine HCl|100,Cyclocytidine HCl,100.0,DNA/RNA Synthesis,274,6.25
+Cyclocytidine HCl|1000,Cyclocytidine HCl,1000.0,DNA/RNA Synthesis,225,7.23
+Cyclocytidine HCl|10000,Cyclocytidine HCl,10000.0,DNA/RNA Synthesis,245,7.71
+Dacinostat (LAQ824)|10,Dacinostat (LAQ824),10.0,HDAC,158,10.67
+Dacinostat (LAQ824)|100,Dacinostat (LAQ824),100.0,HDAC,127,13.12
+Dacinostat (LAQ824)|1000,Dacinostat (LAQ824),1000.0,HDAC,116,15.56
+Dacinostat (LAQ824)|10000,Dacinostat (LAQ824),10000.0,HDAC,94,16.51
+Danusertib (PHA-739358)|10,Danusertib (PHA-739358),10.0,"Aurora Kinase,Bcr-Abl,c-RET,FGFR",192,5.23
+Danusertib (PHA-739358)|100,Danusertib (PHA-739358),100.0,"Aurora Kinase,Bcr-Abl,c-RET,FGFR",155,7.42
+Danusertib (PHA-739358)|1000,Danusertib (PHA-739358),1000.0,"Aurora Kinase,Bcr-Abl,c-RET,FGFR",152,9.27
+Danusertib (PHA-739358)|10000,Danusertib (PHA-739358),10000.0,"Aurora Kinase,Bcr-Abl,c-RET,FGFR",149,9.91
+Daphnetin|10,Daphnetin,10.0,"PKA,EGFR,PKC",251,4.23
+Daphnetin|100,Daphnetin,100.0,"PKA,EGFR,PKC",236,4.2
+Daphnetin|1000,Daphnetin,1000.0,"PKA,EGFR,PKC",235,4.17
+Daphnetin|10000,Daphnetin,10000.0,"PKA,EGFR,PKC",200,4.7
+Dasatinib|10,Dasatinib,10.0,"Bcr-Abl,c-Kit,Src",127,10.88
+Dasatinib|100,Dasatinib,100.0,"Bcr-Abl,c-Kit,Src",134,10.4
+Dasatinib|1000,Dasatinib,1000.0,"Bcr-Abl,c-Kit,Src",115,10.75
+Dasatinib|10000,Dasatinib,10000.0,"Bcr-Abl,c-Kit,Src",134,9.32
+Decitabine|10,Decitabine,10.0,DNA Methyltransferase,246,4.46
+Decitabine|100,Decitabine,100.0,DNA Methyltransferase,224,4.71
+Decitabine|1000,Decitabine,1000.0,DNA Methyltransferase,203,5.34
+Decitabine|10000,Decitabine,10000.0,DNA Methyltransferase,215,5.26
+Disulfiram |10,Disulfiram ,10.0,Dehydrogenase,234,4.14
+Disulfiram |100,Disulfiram ,100.0,Dehydrogenase,278,3.87
+Disulfiram |1000,Disulfiram ,1000.0,Dehydrogenase,279,3.83
+Disulfiram |10000,Disulfiram ,10000.0,Dehydrogenase,242,4.03
+Divalproex Sodium|10,Divalproex Sodium,10.0,HDAC,254,4.05
+Divalproex Sodium|100,Divalproex Sodium,100.0,HDAC,235,4.4
+Divalproex Sodium|1000,Divalproex Sodium,1000.0,HDAC,289,3.97
+Divalproex Sodium|10000,Divalproex Sodium,10000.0,HDAC,241,4.1
+Droxinostat|10,Droxinostat,10.0,HDAC,236,4.13
+Droxinostat|100,Droxinostat,100.0,HDAC,236,4.11
+Droxinostat|1000,Droxinostat,1000.0,HDAC,261,4.35
+Droxinostat|10000,Droxinostat,10000.0,HDAC,204,5.58
+EED226|10,EED226,10.0,Epigenetic Reader Domain,255,4.16
+EED226|100,EED226,100.0,Epigenetic Reader Domain,249,4.02
+EED226|1000,EED226,1000.0,Epigenetic Reader Domain,254,4.03
+EED226|10000,EED226,10000.0,Epigenetic Reader Domain,236,4.3
+ENMD-2076|10,ENMD-2076,10.0,"Aurora Kinase,FLT3,VEGFR",294,3.94
+ENMD-2076|100,ENMD-2076,100.0,"Aurora Kinase,FLT3,VEGFR",218,4.45
+ENMD-2076|1000,ENMD-2076,1000.0,"Aurora Kinase,FLT3,VEGFR",195,5.2
+ENMD-2076|10000,ENMD-2076,10000.0,"Aurora Kinase,FLT3,VEGFR",169,7.8
+ENMD-2076 L-(+)-Tartaric acid |10,ENMD-2076 L-(+)-Tartaric acid ,10.0,"Aurora Kinase,FLT3,VEGFR",221,4.37
+ENMD-2076 L-(+)-Tartaric acid |100,ENMD-2076 L-(+)-Tartaric acid ,100.0,"Aurora Kinase,FLT3,VEGFR",233,4.55
+ENMD-2076 L-(+)-Tartaric acid |1000,ENMD-2076 L-(+)-Tartaric acid ,1000.0,"Aurora Kinase,FLT3,VEGFR",169,6.29
+ENMD-2076 L-(+)-Tartaric acid |10000,ENMD-2076 L-(+)-Tartaric acid ,10000.0,"Aurora Kinase,FLT3,VEGFR",172,7.48
+Ellagic acid|10,Ellagic acid,10.0,Topoisomerase,208,4.42
+Ellagic acid|100,Ellagic acid,100.0,Topoisomerase,233,4.15
+Ellagic acid|1000,Ellagic acid,1000.0,Topoisomerase,208,4.38
+Ellagic acid|10000,Ellagic acid,10000.0,Topoisomerase,277,3.82
+Entacapone|10,Entacapone,10.0,Histone Methyltransferase,261,3.96
+Entacapone|100,Entacapone,100.0,Histone Methyltransferase,230,4.29
+Entacapone|1000,Entacapone,1000.0,Histone Methyltransferase,235,4.24
+Entacapone|10000,Entacapone,10000.0,Histone Methyltransferase,248,4.36
+Entinostat (MS-275)|10,Entinostat (MS-275),10.0,HDAC,269,4.73
+Entinostat (MS-275)|100,Entinostat (MS-275),100.0,HDAC,270,5.13
+Entinostat (MS-275)|1000,Entinostat (MS-275),1000.0,HDAC,241,8.67
+Entinostat (MS-275)|10000,Entinostat (MS-275),10000.0,HDAC,126,14.07
+Enzastaurin (LY317615)|10,Enzastaurin (LY317615),10.0,PKC,224,4.55
+Enzastaurin (LY317615)|100,Enzastaurin (LY317615),100.0,PKC,247,4.15
+Enzastaurin (LY317615)|1000,Enzastaurin (LY317615),1000.0,PKC,292,3.92
+Enzastaurin (LY317615)|10000,Enzastaurin (LY317615),10000.0,PKC,183,6.95
+Epothilone A|10,Epothilone A,10.0,Microtubule Associated,123,6.89
+Epothilone A|100,Epothilone A,100.0,Microtubule Associated,70,8.43
+Epothilone A|1000,Epothilone A,1000.0,Microtubule Associated,82,8.25
+Epothilone A|10000,Epothilone A,10000.0,Microtubule Associated,91,6.92
+FLLL32|10,FLLL32,10.0,JAK,277,3.89
+FLLL32|100,FLLL32,100.0,JAK,246,4.1
+FLLL32|1000,FLLL32,1000.0,JAK,251,4.02
+FLLL32|10000,FLLL32,10000.0,JAK,105,8.68
+Fasudil (HA-1077) HCl|10,Fasudil (HA-1077) HCl,10.0,"Autophagy,ROCK",255,4.06
+Fasudil (HA-1077) HCl|100,Fasudil (HA-1077) HCl,100.0,"Autophagy,ROCK",229,4.22
+Fasudil (HA-1077) HCl|1000,Fasudil (HA-1077) HCl,1000.0,"Autophagy,ROCK",248,4.22
+Fasudil (HA-1077) HCl|10000,Fasudil (HA-1077) HCl,10000.0,"Autophagy,ROCK",217,4.26
+"Fedratinib (SAR302503, TG101348)|10","Fedratinib (SAR302503, TG101348)",10.0,JAK,257,3.99
+"Fedratinib (SAR302503, TG101348)|100","Fedratinib (SAR302503, TG101348)",100.0,JAK,191,4.52
+"Fedratinib (SAR302503, TG101348)|1000","Fedratinib (SAR302503, TG101348)",1000.0,JAK,202,5.08
+"Fedratinib (SAR302503, TG101348)|10000","Fedratinib (SAR302503, TG101348)",10000.0,JAK,88,10.43
+Filgotinib (GLPG0634)|10,Filgotinib (GLPG0634),10.0,JAK,288,3.96
+Filgotinib (GLPG0634)|100,Filgotinib (GLPG0634),100.0,JAK,224,4.1
+Filgotinib (GLPG0634)|1000,Filgotinib (GLPG0634),1000.0,JAK,238,4.12
+Filgotinib (GLPG0634)|10000,Filgotinib (GLPG0634),10000.0,JAK,246,5.43
+Flavopiridol HCl|10,Flavopiridol HCl,10.0,CDK,219,5.54
+Flavopiridol HCl|100,Flavopiridol HCl,100.0,CDK,167,7.86
+Flavopiridol HCl|1000,Flavopiridol HCl,1000.0,CDK,35,15.46
+Flavopiridol HCl|10000,Flavopiridol HCl,10000.0,CDK,29,12.93
+"Fluorouracil (5-Fluoracil, 5-FU)|10","Fluorouracil (5-Fluoracil, 5-FU)",10.0,DNA/RNA Synthesis,284,4.24
+"Fluorouracil (5-Fluoracil, 5-FU)|100","Fluorouracil (5-Fluoracil, 5-FU)",100.0,DNA/RNA Synthesis,242,4.1
+"Fluorouracil (5-Fluoracil, 5-FU)|1000","Fluorouracil (5-Fluoracil, 5-FU)",1000.0,DNA/RNA Synthesis,241,4.06
+"Fluorouracil (5-Fluoracil, 5-FU)|10000","Fluorouracil (5-Fluoracil, 5-FU)",10000.0,DNA/RNA Synthesis,281,4.15
+Fulvestrant|10,Fulvestrant,10.0,Estrogen/progestogen Receptor,249,4.36
+Fulvestrant|100,Fulvestrant,100.0,Estrogen/progestogen Receptor,254,4.12
+Fulvestrant|1000,Fulvestrant,1000.0,Estrogen/progestogen Receptor,226,4.16
+Fulvestrant|10000,Fulvestrant,10000.0,Estrogen/progestogen Receptor,256,4.19
+G007-LK|10,G007-LK,10.0,PARP,237,4.18
+G007-LK|100,G007-LK,100.0,PARP,211,4.37
+G007-LK|1000,G007-LK,1000.0,PARP,209,4.45
+G007-LK|10000,G007-LK,10000.0,PARP,223,4.31
+GSK J1|10,GSK J1,10.0,Histone Demethylase,251,4.05
+GSK J1|100,GSK J1,100.0,Histone Demethylase,244,4.01
+GSK J1|1000,GSK J1,1000.0,Histone Demethylase,256,3.81
+GSK J1|10000,GSK J1,10000.0,Histone Demethylase,217,4.26
+GSK-LSD1 2HCl|10,GSK-LSD1 2HCl,10.0,Histone Demethylase,291,5.3
+GSK-LSD1 2HCl|100,GSK-LSD1 2HCl,100.0,Histone Demethylase,211,5.73
+GSK-LSD1 2HCl|1000,GSK-LSD1 2HCl,1000.0,Histone Demethylase,208,5.83
+GSK-LSD1 2HCl|10000,GSK-LSD1 2HCl,10000.0,Histone Demethylase,234,5.58
+GSK1070916|10,GSK1070916,10.0,Aurora Kinase,206,6.87
+GSK1070916|100,GSK1070916,100.0,Aurora Kinase,167,6.85
+GSK1070916|1000,GSK1070916,1000.0,Aurora Kinase,165,5.48
+GSK1070916|10000,GSK1070916,10000.0,Aurora Kinase,172,6.33
+Gandotinib (LY2784544)|10,Gandotinib (LY2784544),10.0,JAK,220,4.24
+Gandotinib (LY2784544)|100,Gandotinib (LY2784544),100.0,JAK,238,4.11
+Gandotinib (LY2784544)|1000,Gandotinib (LY2784544),1000.0,JAK,238,4.2
+Gandotinib (LY2784544)|10000,Gandotinib (LY2784544),10000.0,JAK,202,5.56
+Givinostat (ITF2357)|10,Givinostat (ITF2357),10.0,HDAC,256,4.81
+Givinostat (ITF2357)|100,Givinostat (ITF2357),100.0,HDAC,228,6.19
+Givinostat (ITF2357)|1000,Givinostat (ITF2357),1000.0,HDAC,153,8.91
+Givinostat (ITF2357)|10000,Givinostat (ITF2357),10000.0,HDAC,103,15.75
+Glesatinib?(MGCD265)|10,Glesatinib?(MGCD265),10.0,"c-Met,Tie-2,VEGFR",280,4.15
+Glesatinib?(MGCD265)|100,Glesatinib?(MGCD265),100.0,"c-Met,Tie-2,VEGFR",298,3.85
+Glesatinib?(MGCD265)|1000,Glesatinib?(MGCD265),1000.0,"c-Met,Tie-2,VEGFR",251,4.1
+Glesatinib?(MGCD265)|10000,Glesatinib?(MGCD265),10000.0,"c-Met,Tie-2,VEGFR",134,10.18
+Hesperadin|10,Hesperadin,10.0,Aurora Kinase,204,6.52
+Hesperadin|100,Hesperadin,100.0,Aurora Kinase,180,8.27
+Hesperadin|1000,Hesperadin,1000.0,Aurora Kinase,216,6.91
+Hesperadin|10000,Hesperadin,10000.0,Aurora Kinase,140,10.77
+INO-1001 (3-Aminobenzamide)|10,INO-1001 (3-Aminobenzamide),10.0,PARP,250,4.35
+INO-1001 (3-Aminobenzamide)|100,INO-1001 (3-Aminobenzamide),100.0,PARP,263,4.26
+INO-1001 (3-Aminobenzamide)|1000,INO-1001 (3-Aminobenzamide),1000.0,PARP,270,3.88
+INO-1001 (3-Aminobenzamide)|10000,INO-1001 (3-Aminobenzamide),10000.0,PARP,275,4.15
+IOX2|10,IOX2,10.0,HIF,256,3.94
+IOX2|100,IOX2,100.0,HIF,259,4.2
+IOX2|1000,IOX2,1000.0,HIF,236,4.14
+IOX2|10000,IOX2,10000.0,HIF,271,3.98
+ITSA-1 (ITSA1)|10,ITSA-1 (ITSA1),10.0,HDAC,239,4.25
+ITSA-1 (ITSA1)|100,ITSA-1 (ITSA1),100.0,HDAC,217,4.4
+ITSA-1 (ITSA1)|1000,ITSA-1 (ITSA1),1000.0,HDAC,215,5.02
+ITSA-1 (ITSA1)|10000,ITSA-1 (ITSA1),10000.0,HDAC,207,4.66
+Iniparib (BSI-201)|10,Iniparib (BSI-201),10.0,PARP,242,4.04
+Iniparib (BSI-201)|100,Iniparib (BSI-201),100.0,PARP,220,4.26
+Iniparib (BSI-201)|1000,Iniparib (BSI-201),1000.0,PARP,271,4.01
+Iniparib (BSI-201)|10000,Iniparib (BSI-201),10000.0,PARP,231,4.35
+Ivosidenib (AG-120)|10,Ivosidenib (AG-120),10.0,IDH1,223,4.17
+Ivosidenib (AG-120)|100,Ivosidenib (AG-120),100.0,IDH1,258,4.01
+Ivosidenib (AG-120)|1000,Ivosidenib (AG-120),1000.0,IDH1,268,3.86
+Ivosidenib (AG-120)|10000,Ivosidenib (AG-120),10000.0,IDH1,229,4.27
+JNJ-26854165 (Serdemetan)|10,JNJ-26854165 (Serdemetan),10.0,"E3 Ligase ,p53",245,4.64
+JNJ-26854165 (Serdemetan)|100,JNJ-26854165 (Serdemetan),100.0,"E3 Ligase ,p53",203,4.88
+JNJ-26854165 (Serdemetan)|1000,JNJ-26854165 (Serdemetan),1000.0,"E3 Ligase ,p53",286,4.26
+JNJ-26854165 (Serdemetan)|10000,JNJ-26854165 (Serdemetan),10000.0,"E3 Ligase ,p53",251,6.39
+JNJ-7706621|10,JNJ-7706621,10.0,"Aurora Kinase,CDK",270,3.99
+JNJ-7706621|100,JNJ-7706621,100.0,"Aurora Kinase,CDK",268,4.18
+JNJ-7706621|1000,JNJ-7706621,1000.0,"Aurora Kinase,CDK",217,5.03
+JNJ-7706621|10000,JNJ-7706621,10000.0,"Aurora Kinase,CDK",100,14.86
+KW-2449|10,KW-2449,10.0,"Aurora Kinase,Bcr-Abl,FLT3",246,4.01
+KW-2449|100,KW-2449,100.0,"Aurora Kinase,Bcr-Abl,FLT3",246,4.04
+KW-2449|1000,KW-2449,1000.0,"Aurora Kinase,Bcr-Abl,FLT3",229,5.01
+KW-2449|10000,KW-2449,10000.0,"Aurora Kinase,Bcr-Abl,FLT3",174,7.47
+Ki16425|10,Ki16425,10.0,LPA Receptor,270,4.05
+Ki16425|100,Ki16425,100.0,LPA Receptor,229,4.15
+Ki16425|1000,Ki16425,1000.0,LPA Receptor,244,4.17
+Ki16425|10000,Ki16425,10000.0,LPA Receptor,218,4.34
+Ki8751|10,Ki8751,10.0,"c-Kit,PDGFR,VEGFR",225,4.31
+Ki8751|100,Ki8751,100.0,"c-Kit,PDGFR,VEGFR",233,4.18
+Ki8751|1000,Ki8751,1000.0,"c-Kit,PDGFR,VEGFR",247,4.26
+Ki8751|10000,Ki8751,10000.0,"c-Kit,PDGFR,VEGFR",187,6.05
+Lapatinib (GW-572016) Ditosylate|10,Lapatinib (GW-572016) Ditosylate,10.0,"EGFR,HER2",286,4.34
+Lapatinib (GW-572016) Ditosylate|100,Lapatinib (GW-572016) Ditosylate,100.0,"EGFR,HER2",273,3.91
+Lapatinib (GW-572016) Ditosylate|1000,Lapatinib (GW-572016) Ditosylate,1000.0,"EGFR,HER2",207,4.52
+Lapatinib (GW-572016) Ditosylate|10000,Lapatinib (GW-572016) Ditosylate,10000.0,"EGFR,HER2",203,5.39
+Lenalidomide (CC-5013)|10,Lenalidomide (CC-5013),10.0,TNF-alpha,246,4.11
+Lenalidomide (CC-5013)|100,Lenalidomide (CC-5013),100.0,TNF-alpha,237,4.09
+Lenalidomide (CC-5013)|1000,Lenalidomide (CC-5013),1000.0,TNF-alpha,252,4.23
+Lenalidomide (CC-5013)|10000,Lenalidomide (CC-5013),10000.0,TNF-alpha,276,3.93
+Linifanib (ABT-869)|10,Linifanib (ABT-869),10.0,"CSF-1R,PDGFR,VEGFR",257,3.96
+Linifanib (ABT-869)|100,Linifanib (ABT-869),100.0,"CSF-1R,PDGFR,VEGFR",271,3.96
+Linifanib (ABT-869)|1000,Linifanib (ABT-869),1000.0,"CSF-1R,PDGFR,VEGFR",269,3.91
+Linifanib (ABT-869)|10000,Linifanib (ABT-869),10000.0,"CSF-1R,PDGFR,VEGFR",269,5.26
+Lomustine |10,Lomustine ,10.0,DNA/RNA Synthesis,251,4.01
+Lomustine |100,Lomustine ,100.0,DNA/RNA Synthesis,258,3.97
+Lomustine |1000,Lomustine ,1000.0,DNA/RNA Synthesis,241,4.1
+Lomustine |10000,Lomustine ,10000.0,DNA/RNA Synthesis,219,4.37
+"Luminespib (AUY-922, NVP-AUY922)|10","Luminespib (AUY-922, NVP-AUY922)",10.0,HSP (e.g. HSP90),216,5.72
+"Luminespib (AUY-922, NVP-AUY922)|100","Luminespib (AUY-922, NVP-AUY922)",100.0,HSP (e.g. HSP90),104,11.92
+"Luminespib (AUY-922, NVP-AUY922)|1000","Luminespib (AUY-922, NVP-AUY922)",1000.0,HSP (e.g. HSP90),87,12.22
+"Luminespib (AUY-922, NVP-AUY922)|10000","Luminespib (AUY-922, NVP-AUY922)",10000.0,HSP (e.g. HSP90),102,10.76
+M344|10,M344,10.0,HDAC,243,4.47
+M344|100,M344,100.0,HDAC,228,5.23
+M344|1000,M344,1000.0,HDAC,154,10.01
+M344|10000,M344,10000.0,HDAC,80,15.17
+MC1568|10,MC1568,10.0,HDAC,228,4.27
+MC1568|100,MC1568,100.0,HDAC,249,4.08
+MC1568|1000,MC1568,1000.0,HDAC,294,3.97
+MC1568|10000,MC1568,10000.0,HDAC,261,4.04
+MK-0752|10,MK-0752,10.0,"Beta Amyloid,Gamma-secretase",252,4.46
+MK-0752|100,MK-0752,100.0,"Beta Amyloid,Gamma-secretase",258,4.09
+MK-0752|1000,MK-0752,1000.0,"Beta Amyloid,Gamma-secretase",268,4.08
+MK-0752|10000,MK-0752,10000.0,"Beta Amyloid,Gamma-secretase",251,4.32
+MK-5108 (VX-689)|10,MK-5108 (VX-689),10.0,Aurora Kinase,253,3.93
+MK-5108 (VX-689)|100,MK-5108 (VX-689),100.0,Aurora Kinase,208,4.4
+MK-5108 (VX-689)|1000,MK-5108 (VX-689),1000.0,Aurora Kinase,235,4.46
+MK-5108 (VX-689)|10000,MK-5108 (VX-689),10000.0,Aurora Kinase,75,9.06
+MLN8054|10,MLN8054,10.0,Aurora Kinase,179,4.73
+MLN8054|100,MLN8054,100.0,Aurora Kinase,117,6.02
+MLN8054|1000,MLN8054,1000.0,Aurora Kinase,188,5.51
+MLN8054|10000,MLN8054,10000.0,Aurora Kinase,205,6.2
+Maraviroc|10,Maraviroc,10.0,CCR,214,4.33
+Maraviroc|100,Maraviroc,100.0,CCR,253,3.93
+Maraviroc|1000,Maraviroc,1000.0,CCR,285,3.73
+Maraviroc|10000,Maraviroc,10000.0,CCR,216,4.22
+Meprednisone|10,Meprednisone,10.0,Glucocorticoid Receptor,243,4.21
+Meprednisone|100,Meprednisone,100.0,Glucocorticoid Receptor,284,4.09
+Meprednisone|1000,Meprednisone,1000.0,Glucocorticoid Receptor,272,4.16
+Meprednisone|10000,Meprednisone,10000.0,Glucocorticoid Receptor,314,3.69
+Mercaptopurine (6-MP)|10,Mercaptopurine (6-MP),10.0,DNA/RNA Synthesis,253,5.35
+Mercaptopurine (6-MP)|100,Mercaptopurine (6-MP),100.0,DNA/RNA Synthesis,275,5.28
+Mercaptopurine (6-MP)|1000,Mercaptopurine (6-MP),1000.0,DNA/RNA Synthesis,203,5.24
+Mercaptopurine (6-MP)|10000,Mercaptopurine (6-MP),10000.0,DNA/RNA Synthesis,179,7.86
+Mesna |10,Mesna ,10.0,Others,248,4.23
+Mesna |100,Mesna ,100.0,Others,282,3.85
+Mesna |1000,Mesna ,1000.0,Others,285,3.71
+Mesna |10000,Mesna ,10000.0,Others,287,3.8
+Mocetinostat (MGCD0103)|10,Mocetinostat (MGCD0103),10.0,HDAC,208,5.21
+Mocetinostat (MGCD0103)|100,Mocetinostat (MGCD0103),100.0,HDAC,211,6.19
+Mocetinostat (MGCD0103)|1000,Mocetinostat (MGCD0103),1000.0,HDAC,195,10.05
+Mocetinostat (MGCD0103)|10000,Mocetinostat (MGCD0103),10000.0,HDAC,86,14.4
+Momelotinib (CYT387)|10,Momelotinib (CYT387),10.0,JAK,246,4.32
+Momelotinib (CYT387)|100,Momelotinib (CYT387),100.0,JAK,235,4.13
+Momelotinib (CYT387)|1000,Momelotinib (CYT387),1000.0,JAK,246,4.41
+Momelotinib (CYT387)|10000,Momelotinib (CYT387),10000.0,JAK,184,5.76
+Motesanib Diphosphate (AMG-706)|10,Motesanib Diphosphate (AMG-706),10.0,"VEGFR,PDGFR,c-Kit",224,4.34
+Motesanib Diphosphate (AMG-706)|100,Motesanib Diphosphate (AMG-706),100.0,"VEGFR,PDGFR,c-Kit",309,3.79
+Motesanib Diphosphate (AMG-706)|1000,Motesanib Diphosphate (AMG-706),1000.0,"VEGFR,PDGFR,c-Kit",267,3.94
+Motesanib Diphosphate (AMG-706)|10000,Motesanib Diphosphate (AMG-706),10000.0,"VEGFR,PDGFR,c-Kit",242,4.33
+NVP-BSK805 2HCl|10,NVP-BSK805 2HCl,10.0,JAK,254,4.05
+NVP-BSK805 2HCl|100,NVP-BSK805 2HCl,100.0,JAK,256,3.98
+NVP-BSK805 2HCl|1000,NVP-BSK805 2HCl,1000.0,JAK,220,4.4
+NVP-BSK805 2HCl|10000,NVP-BSK805 2HCl,10000.0,JAK,165,6.88
+Navitoclax (ABT-263)|10,Navitoclax (ABT-263),10.0,Bcl-2,256,4.75
+Navitoclax (ABT-263)|100,Navitoclax (ABT-263),100.0,Bcl-2,257,4.62
+Navitoclax (ABT-263)|1000,Navitoclax (ABT-263),1000.0,Bcl-2,242,4.51
+Navitoclax (ABT-263)|10000,Navitoclax (ABT-263),10000.0,Bcl-2,61,8.48
+Nilotinib (AMN-107)|10,Nilotinib (AMN-107),10.0,Bcr-Abl,262,5.44
+Nilotinib (AMN-107)|100,Nilotinib (AMN-107),100.0,Bcr-Abl,182,7.91
+Nilotinib (AMN-107)|1000,Nilotinib (AMN-107),1000.0,Bcr-Abl,136,10.19
+Nilotinib (AMN-107)|10000,Nilotinib (AMN-107),10000.0,Bcr-Abl,169,9.83
+Nintedanib (BIBF 1120)|10,Nintedanib (BIBF 1120),10.0,"FGFR,PDGFR,VEGFR",297,4.74
+Nintedanib (BIBF 1120)|100,Nintedanib (BIBF 1120),100.0,"FGFR,PDGFR,VEGFR",228,5.07
+Nintedanib (BIBF 1120)|1000,Nintedanib (BIBF 1120),1000.0,"FGFR,PDGFR,VEGFR",183,7.12
+Nintedanib (BIBF 1120)|10000,Nintedanib (BIBF 1120),10000.0,"FGFR,PDGFR,VEGFR",97,10.76
+Obatoclax Mesylate (GX15-070)|10,Obatoclax Mesylate (GX15-070),10.0,Bcl-2,253,4.38
+Obatoclax Mesylate (GX15-070)|100,Obatoclax Mesylate (GX15-070),100.0,Bcl-2,305,3.81
+Obatoclax Mesylate (GX15-070)|1000,Obatoclax Mesylate (GX15-070),1000.0,Bcl-2,262,4.03
+Obatoclax Mesylate (GX15-070)|10000,Obatoclax Mesylate (GX15-070),10000.0,Bcl-2,113,9.28
+Ofloxacin|10,Ofloxacin,10.0,Topoisomerase,281,3.99
+Ofloxacin|100,Ofloxacin,100.0,Topoisomerase,277,3.96
+Ofloxacin|1000,Ofloxacin,1000.0,Topoisomerase,307,4.16
+Ofloxacin|10000,Ofloxacin,10000.0,Topoisomerase,267,4.13
+PCI-34051|10,PCI-34051,10.0,HDAC,257,4.17
+PCI-34051|100,PCI-34051,100.0,HDAC,261,4.32
+PCI-34051|1000,PCI-34051,1000.0,HDAC,251,4.37
+PCI-34051|10000,PCI-34051,10000.0,HDAC,196,4.81
+PD173074|10,PD173074,10.0,"FGFR,VEGFR",267,4.42
+PD173074|100,PD173074,100.0,"FGFR,VEGFR",286,4.18
+PD173074|1000,PD173074,1000.0,"FGFR,VEGFR",269,3.84
+PD173074|10000,PD173074,10000.0,"FGFR,VEGFR",249,4.25
+PD98059|10,PD98059,10.0,MEK,269,4.11
+PD98059|100,PD98059,100.0,MEK,231,4.33
+PD98059|1000,PD98059,1000.0,MEK,275,3.91
+PD98059|10000,PD98059,10000.0,MEK,255,4.23
+PF-3845|10,PF-3845,10.0,FAAH,234,4.28
+PF-3845|100,PF-3845,100.0,FAAH,208,4.47
+PF-3845|1000,PF-3845,1000.0,FAAH,246,4.12
+PF-3845|10000,PF-3845,10000.0,FAAH,247,4.01
+PF-573228|10,PF-573228,10.0,FAK,191,4.55
+PF-573228|100,PF-573228,100.0,FAK,223,4.34
+PF-573228|1000,PF-573228,1000.0,FAK,263,3.86
+PF-573228|10000,PF-573228,10000.0,FAK,223,5.56
+PFI-1 (PF-6405761)|10,PFI-1 (PF-6405761),10.0,Epigenetic Reader Domain,290,3.89
+PFI-1 (PF-6405761)|100,PFI-1 (PF-6405761),100.0,Epigenetic Reader Domain,282,4.0
+PFI-1 (PF-6405761)|1000,PFI-1 (PF-6405761),1000.0,Epigenetic Reader Domain,233,5.45
+PFI-1 (PF-6405761)|10000,PFI-1 (PF-6405761),10000.0,Epigenetic Reader Domain,145,9.88
+PHA-680632|10,PHA-680632,10.0,Aurora Kinase,249,4.0
+PHA-680632|100,PHA-680632,100.0,Aurora Kinase,228,4.46
+PHA-680632|1000,PHA-680632,1000.0,Aurora Kinase,177,7.41
+PHA-680632|10000,PHA-680632,10000.0,Aurora Kinase,114,11.01
+PJ34|10,PJ34,10.0,PARP,276,3.84
+PJ34|100,PJ34,100.0,PARP,260,4.09
+PJ34|1000,PJ34,1000.0,PARP,251,4.0
+PJ34|10000,PJ34,10000.0,PARP,200,4.65
+Panobinostat (LBH589)|10,Panobinostat (LBH589),10.0,HDAC,174,10.27
+Panobinostat (LBH589)|100,Panobinostat (LBH589),100.0,HDAC,106,14.66
+Panobinostat (LBH589)|1000,Panobinostat (LBH589),1000.0,HDAC,86,15.84
+Panobinostat (LBH589)|10000,Panobinostat (LBH589),10000.0,HDAC,83,16.51
+"Patupilone (EPO906, Epothilone B)|10","Patupilone (EPO906, Epothilone B)",10.0,Microtubule Associated,71,8.38
+"Patupilone (EPO906, Epothilone B)|100","Patupilone (EPO906, Epothilone B)",100.0,Microtubule Associated,67,8.86
+"Patupilone (EPO906, Epothilone B)|1000","Patupilone (EPO906, Epothilone B)",1000.0,Microtubule Associated,97,6.99
+"Patupilone (EPO906, Epothilone B)|10000","Patupilone (EPO906, Epothilone B)",10000.0,Microtubule Associated,88,7.25
+Pelitinib (EKB-569)|10,Pelitinib (EKB-569),10.0,EGFR,267,4.39
+Pelitinib (EKB-569)|100,Pelitinib (EKB-569),100.0,EGFR,252,4.4
+Pelitinib (EKB-569)|1000,Pelitinib (EKB-569),1000.0,EGFR,247,4.77
+Pelitinib (EKB-569)|10000,Pelitinib (EKB-569),10000.0,EGFR,112,8.63
+Pirarubicin|10,Pirarubicin,10.0,Topoisomerase,212,4.29
+Pirarubicin|100,Pirarubicin,100.0,Topoisomerase,220,4.34
+Pirarubicin|1000,Pirarubicin,1000.0,Topoisomerase,207,5.17
+Pirarubicin|10000,Pirarubicin,10000.0,Topoisomerase,181,7.43
+Pracinostat (SB939)|10,Pracinostat (SB939),10.0,HDAC,256,5.0
+Pracinostat (SB939)|100,Pracinostat (SB939),100.0,HDAC,208,7.74
+Pracinostat (SB939)|1000,Pracinostat (SB939),1000.0,HDAC,132,12.77
+Pracinostat (SB939)|10000,Pracinostat (SB939),10000.0,HDAC,96,15.92
+Prednisone |10,Prednisone ,10.0,"Glucocorticoid Receptor,Immunology & Inflammation related",253,4.12
+Prednisone |100,Prednisone ,100.0,"Glucocorticoid Receptor,Immunology & Inflammation related",246,4.01
+Prednisone |1000,Prednisone ,1000.0,"Glucocorticoid Receptor,Immunology & Inflammation related",273,3.84
+Prednisone |10000,Prednisone ,10000.0,"Glucocorticoid Receptor,Immunology & Inflammation related",257,3.92
+Quercetin|10,Quercetin,10.0,"Src,Sirtuin,PKC,PI3K",222,4.3
+Quercetin|100,Quercetin,100.0,"Src,Sirtuin,PKC,PI3K",237,4.21
+Quercetin|1000,Quercetin,1000.0,"Src,Sirtuin,PKC,PI3K",241,4.24
+Quercetin|10000,Quercetin,10000.0,"Src,Sirtuin,PKC,PI3K",200,4.53
+Quisinostat (JNJ-26481585) 2HCl|10,Quisinostat (JNJ-26481585) 2HCl,10.0,HDAC,131,14.31
+Quisinostat (JNJ-26481585) 2HCl|100,Quisinostat (JNJ-26481585) 2HCl,100.0,HDAC,129,14.66
+Quisinostat (JNJ-26481585) 2HCl|1000,Quisinostat (JNJ-26481585) 2HCl,1000.0,HDAC,102,14.88
+Quisinostat (JNJ-26481585) 2HCl|10000,Quisinostat (JNJ-26481585) 2HCl,10000.0,HDAC,94,16.23
+RG108|10,RG108,10.0,DNA Methyltransferase,258,4.02
+RG108|100,RG108,100.0,DNA Methyltransferase,251,3.99
+RG108|1000,RG108,1000.0,DNA Methyltransferase,238,4.06
+RG108|10000,RG108,10000.0,DNA Methyltransferase,229,4.11
+Raltitrexed|10,Raltitrexed,10.0,DNA/RNA Synthesis,173,7.48
+Raltitrexed|100,Raltitrexed,100.0,DNA/RNA Synthesis,198,7.5
+Raltitrexed|1000,Raltitrexed,1000.0,DNA/RNA Synthesis,208,7.12
+Raltitrexed|10000,Raltitrexed,10000.0,DNA/RNA Synthesis,228,8.03
+Ramelteon|10,Ramelteon,10.0,MT Receptor,254,4.59
+Ramelteon|100,Ramelteon,100.0,MT Receptor,272,4.0
+Ramelteon|1000,Ramelteon,1000.0,MT Receptor,282,3.9
+Ramelteon|10000,Ramelteon,10000.0,MT Receptor,278,4.2
+Regorafenib (BAY 73-4506)|10,Regorafenib (BAY 73-4506),10.0,"c-RET,VEGFR",206,4.4
+Regorafenib (BAY 73-4506)|100,Regorafenib (BAY 73-4506),100.0,"c-RET,VEGFR",230,4.21
+Regorafenib (BAY 73-4506)|1000,Regorafenib (BAY 73-4506),1000.0,"c-RET,VEGFR",255,4.03
+Regorafenib (BAY 73-4506)|10000,Regorafenib (BAY 73-4506),10000.0,"c-RET,VEGFR",113,12.09
+Resminostat|10,Resminostat,10.0,HDAC,270,4.06
+Resminostat|100,Resminostat,100.0,HDAC,226,4.46
+Resminostat|1000,Resminostat,1000.0,HDAC,202,5.48
+Resminostat|10000,Resminostat,10000.0,HDAC,147,13.34
+Resveratrol|10,Resveratrol,10.0,"Autophagy,Sirtuin",227,4.13
+Resveratrol|100,Resveratrol,100.0,"Autophagy,Sirtuin",242,4.09
+Resveratrol|1000,Resveratrol,1000.0,"Autophagy,Sirtuin",251,4.0
+Resveratrol|10000,Resveratrol,10000.0,"Autophagy,Sirtuin",266,4.92
+Rigosertib (ON-01910)|10,Rigosertib (ON-01910),10.0,PLK,230,4.37
+Rigosertib (ON-01910)|100,Rigosertib (ON-01910),100.0,PLK,179,5.16
+Rigosertib (ON-01910)|1000,Rigosertib (ON-01910),1000.0,PLK,76,8.71
+Rigosertib (ON-01910)|10000,Rigosertib (ON-01910),10000.0,PLK,66,10.01
+"Roscovitine (Seliciclib,CYC202)|10","Roscovitine (Seliciclib,CYC202)",10.0,CDK,242,4.02
+"Roscovitine (Seliciclib,CYC202)|100","Roscovitine (Seliciclib,CYC202)",100.0,CDK,260,4.0
+"Roscovitine (Seliciclib,CYC202)|1000","Roscovitine (Seliciclib,CYC202)",1000.0,CDK,287,3.83
+"Roscovitine (Seliciclib,CYC202)|10000","Roscovitine (Seliciclib,CYC202)",10000.0,CDK,298,4.06
+Roxadustat (FG-4592)|10,Roxadustat (FG-4592),10.0,HIF,230,4.12
+Roxadustat (FG-4592)|100,Roxadustat (FG-4592),100.0,HIF,198,4.61
+Roxadustat (FG-4592)|1000,Roxadustat (FG-4592),1000.0,HIF,248,4.15
+Roxadustat (FG-4592)|10000,Roxadustat (FG-4592),10000.0,HIF,274,4.09
+"Rucaparib (AG-014699,PF-01367338) phosphate|10","Rucaparib (AG-014699,PF-01367338) phosphate",10.0,PARP,302,3.9
+"Rucaparib (AG-014699,PF-01367338) phosphate|100","Rucaparib (AG-014699,PF-01367338) phosphate",100.0,PARP,226,4.34
+"Rucaparib (AG-014699,PF-01367338) phosphate|1000","Rucaparib (AG-014699,PF-01367338) phosphate",1000.0,PARP,225,4.45
+"Rucaparib (AG-014699,PF-01367338) phosphate|10000","Rucaparib (AG-014699,PF-01367338) phosphate",10000.0,PARP,225,4.44
+Ruxolitinib (INCB018424)|10,Ruxolitinib (INCB018424),10.0,JAK,233,4.13
+Ruxolitinib (INCB018424)|100,Ruxolitinib (INCB018424),100.0,JAK,231,4.31
+Ruxolitinib (INCB018424)|1000,Ruxolitinib (INCB018424),1000.0,JAK,205,4.67
+Ruxolitinib (INCB018424)|10000,Ruxolitinib (INCB018424),10000.0,JAK,264,4.09
+S-Ruxolitinib (INCB018424)|10,S-Ruxolitinib (INCB018424),10.0,JAK,249,4.25
+S-Ruxolitinib (INCB018424)|100,S-Ruxolitinib (INCB018424),100.0,JAK,215,4.58
+S-Ruxolitinib (INCB018424)|1000,S-Ruxolitinib (INCB018424),1000.0,JAK,226,4.24
+S-Ruxolitinib (INCB018424)|10000,S-Ruxolitinib (INCB018424),10000.0,JAK,245,4.22
+S3I-201|10,S3I-201,10.0,STAT,280,4.07
+S3I-201|100,S3I-201,100.0,STAT,264,4.07
+S3I-201|1000,S3I-201,1000.0,STAT,290,3.8
+S3I-201|10000,S3I-201,10000.0,STAT,296,3.72
+SB431542|10,SB431542,10.0,TGF-beta/Smad,263,4.11
+SB431542|100,SB431542,100.0,TGF-beta/Smad,235,4.15
+SB431542|1000,SB431542,1000.0,TGF-beta/Smad,239,4.13
+SB431542|10000,SB431542,10000.0,TGF-beta/Smad,324,3.71
+SGI-1776 free base|10,SGI-1776 free base,10.0,Pim,233,4.32
+SGI-1776 free base|100,SGI-1776 free base,100.0,Pim,272,3.94
+SGI-1776 free base|1000,SGI-1776 free base,1000.0,Pim,229,4.17
+SGI-1776 free base|10000,SGI-1776 free base,10000.0,Pim,74,8.61
+SL-327|10,SL-327,10.0,MEK,227,4.78
+SL-327|100,SL-327,100.0,MEK,223,4.38
+SL-327|1000,SL-327,1000.0,MEK,260,4.18
+SL-327|10000,SL-327,10000.0,MEK,252,5.06
+SNS-314|10,SNS-314,10.0,Aurora Kinase,191,6.42
+SNS-314|100,SNS-314,100.0,Aurora Kinase,186,7.55
+SNS-314|1000,SNS-314,1000.0,Aurora Kinase,215,6.64
+SNS-314|10000,SNS-314,10000.0,Aurora Kinase,176,6.17
+SRT1720 HCl|10,SRT1720 HCl,10.0,Sirtuin,253,4.06
+SRT1720 HCl|100,SRT1720 HCl,100.0,Sirtuin,259,3.98
+SRT1720 HCl|1000,SRT1720 HCl,1000.0,Sirtuin,308,3.67
+SRT1720 HCl|10000,SRT1720 HCl,10000.0,Sirtuin,131,7.54
+SRT2104 (GSK2245840)|10,SRT2104 (GSK2245840),10.0,Sirtuin,276,3.96
+SRT2104 (GSK2245840)|100,SRT2104 (GSK2245840),100.0,Sirtuin,293,3.92
+SRT2104 (GSK2245840)|1000,SRT2104 (GSK2245840),1000.0,Sirtuin,289,4.19
+SRT2104 (GSK2245840)|10000,SRT2104 (GSK2245840),10000.0,Sirtuin,268,4.05
+SRT3025 HCl|10,SRT3025 HCl,10.0,Sirtuin,251,4.02
+SRT3025 HCl|100,SRT3025 HCl,100.0,Sirtuin,219,4.22
+SRT3025 HCl|1000,SRT3025 HCl,1000.0,Sirtuin,212,4.52
+SRT3025 HCl|10000,SRT3025 HCl,10000.0,Sirtuin,213,4.45
+Selisistat (EX 527)|10,Selisistat (EX 527),10.0,Sirtuin,253,4.02
+Selisistat (EX 527)|100,Selisistat (EX 527),100.0,Sirtuin,249,4.2
+Selisistat (EX 527)|1000,Selisistat (EX 527),1000.0,Sirtuin,222,4.35
+Selisistat (EX 527)|10000,Selisistat (EX 527),10000.0,Sirtuin,267,3.94
+Sirtinol|10,Sirtinol,10.0,Sirtuin,255,3.91
+Sirtinol|100,Sirtinol,100.0,Sirtuin,243,4.02
+Sirtinol|1000,Sirtinol,1000.0,Sirtuin,260,3.93
+Sirtinol|10000,Sirtinol,10000.0,Sirtuin,295,4.25
+Sodium Phenylbutyrate|10,Sodium Phenylbutyrate,10.0,HDAC,214,4.43
+Sodium Phenylbutyrate|100,Sodium Phenylbutyrate,100.0,HDAC,223,4.39
+Sodium Phenylbutyrate|1000,Sodium Phenylbutyrate,1000.0,HDAC,242,4.31
+Sodium Phenylbutyrate|10000,Sodium Phenylbutyrate,10000.0,HDAC,228,4.42
+Sorafenib Tosylate|10,Sorafenib Tosylate,10.0,"PDGFR,Raf,VEGFR",244,4.54
+Sorafenib Tosylate|100,Sorafenib Tosylate,100.0,"PDGFR,Raf,VEGFR",272,4.47
+Sorafenib Tosylate|1000,Sorafenib Tosylate,1000.0,"PDGFR,Raf,VEGFR",261,4.07
+Sorafenib Tosylate|10000,Sorafenib Tosylate,10000.0,"PDGFR,Raf,VEGFR",119,9.81
+Streptozotocin (STZ)|10,Streptozotocin (STZ),10.0,DNA alkylator,262,3.98
+Streptozotocin (STZ)|100,Streptozotocin (STZ),100.0,DNA alkylator,274,3.76
+Streptozotocin (STZ)|1000,Streptozotocin (STZ),1000.0,DNA alkylator,245,4.08
+Streptozotocin (STZ)|10000,Streptozotocin (STZ),10000.0,DNA alkylator,268,3.87
+TAK-901|10,TAK-901,10.0,Aurora Kinase,233,4.37
+TAK-901|100,TAK-901,100.0,Aurora Kinase,203,6.86
+TAK-901|1000,TAK-901,1000.0,Aurora Kinase,132,8.6
+TAK-901|10000,TAK-901,10000.0,Aurora Kinase,102,11.86
+TG101209|10,TG101209,10.0,"c-RET,FLT3,JAK",252,4.1
+TG101209|100,TG101209,100.0,"c-RET,FLT3,JAK",264,3.89
+TG101209|1000,TG101209,1000.0,"c-RET,FLT3,JAK",198,5.28
+TG101209|10000,TG101209,10000.0,"c-RET,FLT3,JAK",100,10.08
+TGX-221|10,TGX-221,10.0,PI3K,242,4.12
+TGX-221|100,TGX-221,100.0,PI3K,266,4.03
+TGX-221|1000,TGX-221,1000.0,PI3K,257,3.9
+TGX-221|10000,TGX-221,10000.0,PI3K,244,4.36
+TMP195|10,TMP195,10.0,HDAC,243,3.99
+TMP195|100,TMP195,100.0,HDAC,245,4.18
+TMP195|1000,TMP195,1000.0,HDAC,245,4.18
+TMP195|10000,TMP195,10000.0,HDAC,226,4.38
+Tacedinaline (CI994)|10,Tacedinaline (CI994),10.0,HDAC,277,4.14
+Tacedinaline (CI994)|100,Tacedinaline (CI994),100.0,HDAC,214,4.31
+Tacedinaline (CI994)|1000,Tacedinaline (CI994),1000.0,HDAC,245,4.99
+Tacedinaline (CI994)|10000,Tacedinaline (CI994),10000.0,HDAC,167,10.38
+Tanespimycin (17-AAG)|10,Tanespimycin (17-AAG),10.0,HSP (e.g. HSP90),249,4.02
+Tanespimycin (17-AAG)|100,Tanespimycin (17-AAG),100.0,HSP (e.g. HSP90),197,5.68
+Tanespimycin (17-AAG)|1000,Tanespimycin (17-AAG),1000.0,HSP (e.g. HSP90),153,9.11
+Tanespimycin (17-AAG)|10000,Tanespimycin (17-AAG),10000.0,HSP (e.g. HSP90),101,11.79
+Tazemetostat (EPZ-6438)|10,Tazemetostat (EPZ-6438),10.0,Histone Methyltransferase,265,3.96
+Tazemetostat (EPZ-6438)|100,Tazemetostat (EPZ-6438),100.0,Histone Methyltransferase,301,3.79
+Tazemetostat (EPZ-6438)|1000,Tazemetostat (EPZ-6438),1000.0,Histone Methyltransferase,264,4.14
+Tazemetostat (EPZ-6438)|10000,Tazemetostat (EPZ-6438),10000.0,Histone Methyltransferase,260,4.11
+"Temsirolimus (CCI-779, NSC 683864)|10","Temsirolimus (CCI-779, NSC 683864)",10.0,mTOR,200,5.36
+"Temsirolimus (CCI-779, NSC 683864)|100","Temsirolimus (CCI-779, NSC 683864)",100.0,mTOR,217,4.79
+"Temsirolimus (CCI-779, NSC 683864)|1000","Temsirolimus (CCI-779, NSC 683864)",1000.0,mTOR,227,4.66
+"Temsirolimus (CCI-779, NSC 683864)|10000","Temsirolimus (CCI-779, NSC 683864)",10000.0,mTOR,158,5.73
+Thalidomide|10,Thalidomide,10.0,"E3 Ligase ,TNF-alpha",244,4.04
+Thalidomide|100,Thalidomide,100.0,"E3 Ligase ,TNF-alpha",244,4.24
+Thalidomide|1000,Thalidomide,1000.0,"E3 Ligase ,TNF-alpha",247,4.05
+Thalidomide|10000,Thalidomide,10000.0,"E3 Ligase ,TNF-alpha",251,4.0
+Thiotepa|10,Thiotepa,10.0,Others,250,4.09
+Thiotepa|100,Thiotepa,100.0,Others,285,3.98
+Thiotepa|1000,Thiotepa,1000.0,Others,278,4.18
+Thiotepa|10000,Thiotepa,10000.0,Others,302,4.28
+Tie2 kinase inhibitor|10,Tie2 kinase inhibitor,10.0,Tie-2,292,3.71
+Tie2 kinase inhibitor|100,Tie2 kinase inhibitor,100.0,Tie-2,255,4.08
+Tie2 kinase inhibitor|1000,Tie2 kinase inhibitor,1000.0,Tie-2,304,3.78
+Tie2 kinase inhibitor|10000,Tie2 kinase inhibitor,10000.0,Tie-2,291,4.03
+Tofacitinib (CP-690550) Citrate|10,Tofacitinib (CP-690550) Citrate,10.0,JAK,297,3.83
+Tofacitinib (CP-690550) Citrate|100,Tofacitinib (CP-690550) Citrate,100.0,JAK,263,3.91
+Tofacitinib (CP-690550) Citrate|1000,Tofacitinib (CP-690550) Citrate,1000.0,JAK,243,4.03
+Tofacitinib (CP-690550) Citrate|10000,Tofacitinib (CP-690550) Citrate,10000.0,JAK,245,4.17
+Toremifene Citrate|10,Toremifene Citrate,10.0,Estrogen/progestogen Receptor,259,4.31
+Toremifene Citrate|100,Toremifene Citrate,100.0,Estrogen/progestogen Receptor,286,4.5
+Toremifene Citrate|1000,Toremifene Citrate,1000.0,Estrogen/progestogen Receptor,319,4.18
+Toremifene Citrate|10000,Toremifene Citrate,10000.0,Estrogen/progestogen Receptor,181,5.75
+"Tozasertib (VX-680, MK-0457)|10","Tozasertib (VX-680, MK-0457)",10.0,Aurora Kinase,225,4.26
+"Tozasertib (VX-680, MK-0457)|100","Tozasertib (VX-680, MK-0457)",100.0,Aurora Kinase,158,6.52
+"Tozasertib (VX-680, MK-0457)|1000","Tozasertib (VX-680, MK-0457)",1000.0,Aurora Kinase,131,7.91
+"Tozasertib (VX-680, MK-0457)|10000","Tozasertib (VX-680, MK-0457)",10000.0,Aurora Kinase,140,9.83
+Trametinib (GSK1120212)|10,Trametinib (GSK1120212),10.0,MEK,174,8.77
+Trametinib (GSK1120212)|100,Trametinib (GSK1120212),100.0,MEK,174,8.56
+Trametinib (GSK1120212)|1000,Trametinib (GSK1120212),1000.0,MEK,190,8.79
+Trametinib (GSK1120212)|10000,Trametinib (GSK1120212),10000.0,MEK,196,9.08
+Tranylcypromine (2-PCPA) HCl|10,Tranylcypromine (2-PCPA) HCl,10.0,MAO,252,4.31
+Tranylcypromine (2-PCPA) HCl|100,Tranylcypromine (2-PCPA) HCl,100.0,MAO,222,4.26
+Tranylcypromine (2-PCPA) HCl|1000,Tranylcypromine (2-PCPA) HCl,1000.0,MAO,268,4.37
+Tranylcypromine (2-PCPA) HCl|10000,Tranylcypromine (2-PCPA) HCl,10000.0,MAO,259,4.84
+Triamcinolone Acetonide|10,Triamcinolone Acetonide,10.0,Glucocorticoid Receptor,277,5.08
+Triamcinolone Acetonide|100,Triamcinolone Acetonide,100.0,Glucocorticoid Receptor,253,5.12
+Triamcinolone Acetonide|1000,Triamcinolone Acetonide,1000.0,Glucocorticoid Receptor,319,4.84
+Triamcinolone Acetonide|10000,Triamcinolone Acetonide,10000.0,Glucocorticoid Receptor,314,4.97
+Trichostatin A (TSA)|10,Trichostatin A (TSA),10.0,HDAC,247,4.2
+Trichostatin A (TSA)|100,Trichostatin A (TSA),100.0,HDAC,243,4.16
+Trichostatin A (TSA)|1000,Trichostatin A (TSA),1000.0,HDAC,203,5.6
+Trichostatin A (TSA)|10000,Trichostatin A (TSA),10000.0,HDAC,96,13.21
+Tubastatin A HCl|10,Tubastatin A HCl,10.0,HDAC,256,4.06
+Tubastatin A HCl|100,Tubastatin A HCl,100.0,HDAC,205,4.31
+Tubastatin A HCl|1000,Tubastatin A HCl,1000.0,HDAC,246,4.11
+Tubastatin A HCl|10000,Tubastatin A HCl,10000.0,HDAC,235,4.88
+Tucidinostat (Chidamide)|10,Tucidinostat (Chidamide),10.0,HDAC,243,4.51
+Tucidinostat (Chidamide)|100,Tucidinostat (Chidamide),100.0,HDAC,205,5.5
+Tucidinostat (Chidamide)|1000,Tucidinostat (Chidamide),1000.0,HDAC,207,5.69
+Tucidinostat (Chidamide)|10000,Tucidinostat (Chidamide),10000.0,HDAC,139,13.49
+UNC0379|10,UNC0379,10.0,Histone Methyltransferase,261,4.11
+UNC0379|100,UNC0379,100.0,Histone Methyltransferase,265,4.31
+UNC0379|1000,UNC0379,1000.0,Histone Methyltransferase,251,4.15
+UNC0379|10000,UNC0379,10000.0,Histone Methyltransferase,197,8.56
+UNC0631|10,UNC0631,10.0,Histone Methyltransferase,279,3.94
+UNC0631|100,UNC0631,100.0,Histone Methyltransferase,240,4.29
+UNC0631|1000,UNC0631,1000.0,Histone Methyltransferase,221,4.19
+UNC0631|10000,UNC0631,10000.0,Histone Methyltransferase,243,4.43
+UNC1999|10,UNC1999,10.0,Histone Methyltransferase,256,3.91
+UNC1999|100,UNC1999,100.0,Histone Methyltransferase,237,4.2
+UNC1999|1000,UNC1999,1000.0,Histone Methyltransferase,224,4.33
+UNC1999|10000,UNC1999,10000.0,Histone Methyltransferase,221,4.71
+Valproic acid sodium salt (Sodium valproate)|10,Valproic acid sodium salt (Sodium valproate),10.0,"GABA Receptor,HDAC,Autophagy",251,4.07
+Valproic acid sodium salt (Sodium valproate)|100,Valproic acid sodium salt (Sodium valproate),100.0,"GABA Receptor,HDAC,Autophagy",224,4.46
+Valproic acid sodium salt (Sodium valproate)|1000,Valproic acid sodium salt (Sodium valproate),1000.0,"GABA Receptor,HDAC,Autophagy",255,3.9
+Valproic acid sodium salt (Sodium valproate)|10000,Valproic acid sodium salt (Sodium valproate),10000.0,"GABA Receptor,HDAC,Autophagy",280,3.76
+Vandetanib (ZD6474)|10,Vandetanib (ZD6474),10.0,VEGFR,225,4.26
+Vandetanib (ZD6474)|100,Vandetanib (ZD6474),100.0,VEGFR,248,4.16
+Vandetanib (ZD6474)|1000,Vandetanib (ZD6474),1000.0,VEGFR,239,5.22
+Vandetanib (ZD6474)|10000,Vandetanib (ZD6474),10000.0,VEGFR,110,9.57
+Veliparib (ABT-888)|10,Veliparib (ABT-888),10.0,PARP,281,4.42
+Veliparib (ABT-888)|100,Veliparib (ABT-888),100.0,PARP,257,4.17
+Veliparib (ABT-888)|1000,Veliparib (ABT-888),1000.0,PARP,253,3.98
+Veliparib (ABT-888)|10000,Veliparib (ABT-888),10000.0,PARP,284,3.76
+WHI-P154|10,WHI-P154,10.0,"EGFR,JAK",250,4.28
+WHI-P154|100,WHI-P154,100.0,"EGFR,JAK",277,3.84
+WHI-P154|1000,WHI-P154,1000.0,"EGFR,JAK",267,3.96
+WHI-P154|10000,WHI-P154,10000.0,"EGFR,JAK",206,5.33
+WP1066|10,WP1066,10.0,JAK,246,4.06
+WP1066|100,WP1066,100.0,JAK,237,4.25
+WP1066|1000,WP1066,1000.0,JAK,237,4.18
+WP1066|10000,WP1066,10000.0,JAK,235,4.41
+XAV-939|10,XAV-939,10.0,Wnt/beta-catenin,201,4.6
+XAV-939|100,XAV-939,100.0,Wnt/beta-catenin,221,4.12
+XAV-939|1000,XAV-939,1000.0,Wnt/beta-catenin,291,3.75
+XAV-939|10000,XAV-939,10000.0,Wnt/beta-catenin,222,4.26
+YM155 (Sepantronium Bromide)|10,YM155 (Sepantronium Bromide),10.0,Survivin,241,4.76
+YM155 (Sepantronium Bromide)|100,YM155 (Sepantronium Bromide),100.0,Survivin,183,6.76
+YM155 (Sepantronium Bromide)|1000,YM155 (Sepantronium Bromide),1000.0,Survivin,132,8.1
+YM155 (Sepantronium Bromide)|10000,YM155 (Sepantronium Bromide),10000.0,Survivin,148,7.81
+ZM 447439|10,ZM 447439,10.0,Aurora Kinase,255,3.92
+ZM 447439|100,ZM 447439,100.0,Aurora Kinase,239,4.19
+ZM 447439|1000,ZM 447439,1000.0,Aurora Kinase,221,5.86
+ZM 447439|10000,ZM 447439,10000.0,Aurora Kinase,220,7.41
+Zileuton|10,Zileuton,10.0,Lipoxygenase,241,4.02
+Zileuton|100,Zileuton,100.0,Lipoxygenase,270,4.11
+Zileuton|1000,Zileuton,1000.0,Lipoxygenase,261,3.92
+Zileuton|10000,Zileuton,10000.0,Lipoxygenase,285,3.77

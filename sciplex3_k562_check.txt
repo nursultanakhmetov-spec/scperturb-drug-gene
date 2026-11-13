@@ -1,0 +1,61 @@
+=== 20 самых сильных препаратов на 10 000 нМ ===
+                                                                   target  n_cells  effect
+name                                                                                      
+Dacinostat (LAQ824)|10000                                            HDAC       94   16.51
+Panobinostat (LBH589)|10000                                          HDAC       83   16.51
+Quisinostat (JNJ-26481585) 2HCl|10000                                HDAC       94   16.23
+Pracinostat (SB939)|10000                                            HDAC       96   15.92
+Givinostat (ITF2357)|10000                                           HDAC      103   15.75
+M344|10000                                                           HDAC       80   15.17
+JNJ-7706621|10000                                       Aurora Kinase,CDK      100   14.86
+Abexinostat (PCI-24781)|10000                                        HDAC       96   14.78
+CUDC-101|10000                                             EGFR,HDAC,HER2       94   14.65
+AR-42|10000                                                          HDAC      104   14.44
+Mocetinostat (MGCD0103)|10000                                        HDAC       86   14.40
+Belinostat (PXD101)|10000                                            HDAC       89   14.15
+Entinostat (MS-275)|10000                                            HDAC      126   14.07
+CUDC-907|10000                                                  HDAC,PI3K       57   13.65
+Tucidinostat (Chidamide)|10000                                       HDAC      139   13.49
+Resminostat|10000                                                    HDAC      147   13.34
+Trichostatin A (TSA)|10000                                           HDAC       96   13.21
+Flavopiridol HCl|10000                                                CDK       29   12.93
+Bisindolylmaleimide IX (Ro 31-8220 Mesylate)|10000                    PKC       32   12.76
+Azacitidine |10000                                  DNA Methyltransferase      206   12.33
+
+=== медиана силы эффекта по дозам ===
+dose_nM
+10.0       4.185
+100.0      4.255
+1000.0     4.240
+10000.0    5.345
+
+=== ингибиторы Bcr-Abl по дозам ===
+                               dose_nM                            target  n_cells  effect
+name                                                                                     
+AT9283|10                         10.0         Aurora Kinase,Bcr-Abl,JAK      215    6.03
+AT9283|100                       100.0         Aurora Kinase,Bcr-Abl,JAK      184    6.57
+AT9283|1000                     1000.0         Aurora Kinase,Bcr-Abl,JAK      160    7.84
+AT9283|10000                   10000.0         Aurora Kinase,Bcr-Abl,JAK       87   11.00
+Danusertib (PHA-739358)|10        10.0  Aurora Kinase,Bcr-Abl,c-RET,FGFR      192    5.23
+Danusertib (PHA-739358)|100      100.0  Aurora Kinase,Bcr-Abl,c-RET,FGFR      155    7.42
+Danusertib (PHA-739358)|1000    1000.0  Aurora Kinase,Bcr-Abl,c-RET,FGFR      152    9.27
+Danusertib (PHA-739358)|10000  10000.0  Aurora Kinase,Bcr-Abl,c-RET,FGFR      149    9.91
+Dasatinib|10                      10.0                 Bcr-Abl,c-Kit,Src      127   10.88
+Dasatinib|100                    100.0                 Bcr-Abl,c-Kit,Src      134   10.40
+Dasatinib|1000                  1000.0                 Bcr-Abl,c-Kit,Src      115   10.75
+Dasatinib|10000                10000.0                 Bcr-Abl,c-Kit,Src      134    9.32
+KW-2449|10                        10.0        Aurora Kinase,Bcr-Abl,FLT3      246    4.01
+KW-2449|100                      100.0        Aurora Kinase,Bcr-Abl,FLT3      246    4.04
+KW-2449|1000                    1000.0        Aurora Kinase,Bcr-Abl,FLT3      229    5.01
+KW-2449|10000                  10000.0        Aurora Kinase,Bcr-Abl,FLT3      174    7.47
+Nilotinib (AMN-107)|10            10.0                           Bcr-Abl      262    5.44
+Nilotinib (AMN-107)|100          100.0                           Bcr-Abl      182    7.91
+Nilotinib (AMN-107)|1000        1000.0                           Bcr-Abl      136   10.19
+Nilotinib (AMN-107)|10000      10000.0                           Bcr-Abl      169    9.83
+
+=== средняя корреляция отпечатков: внутри класса / с остальными ===
+HDAC            препаратов 23   внутри 0.40   с остальными 0.10
+JAK             препаратов 16   внутри 0.11   с остальными 0.10
+Aurora Kinase   препаратов 13   внутри 0.27   с остальными 0.11
+PARP            препаратов  7   внутри 0.08   с остальными 0.06
+Sirtuin         препаратов  5   внутри 0.07   с остальными 0.08
